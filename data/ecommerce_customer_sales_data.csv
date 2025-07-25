@@ -1,0 +1,1001 @@
+CustomerID,CustomerName,Age,Gender,IncomeLevel,LoyaltyScore,CustomerSegment,Location,ProductID,Category,SubCategory,Brand,CostPrice,SellingPrice,DiscountOffered,PurchaseQuantity,UnitPrice,PaymentMethod,DateOfPurchase,SalesChannel,PaymentStatus
+1051,Customer_0,51,Male,Low,82,C,Hyderabad,2943,Clothing,Makeup,BrandZ,456,1184,10,2,1121,Credit Card,2023-01-01,Offline,Paid
+1092,Customer_1,64,Female,Low,92,B,Mumbai,2038,Beauty,Furniture,BrandZ,756,275,15,1,633,Cash,2023-01-02,Online,Paid
+1014,Customer_2,25,Female,Medium,51,B,Mumbai,2488,Clothing,Makeup,BrandZ,843,455,5,1,1078,Cash,2023-01-03,Offline,Paid
+1071,Customer_3,57,Male,High,47,B,Delhi,2643,Beauty,Makeup,BrandX,971,777,20,3,298,Net Banking,2023-01-04,Offline,Pending
+1060,Customer_4,61,Female,Medium,4,C,Bangalore,2541,Beauty,Shirts,BrandY,303,838,0,4,1136,UPI,2023-01-05,Offline,Pending
+1020,Customer_5,36,Male,High,7,C,Bangalore,2669,Electronics,Furniture,BrandX,312,1187,15,4,733,Cash,2023-01-06,Online,Paid
+1082,Customer_6,59,Male,Medium,35,C,Mumbai,2277,Beauty,Makeup,BrandY,651,430,10,2,397,Cash,2023-01-07,Offline,Paid
+1086,Customer_7,58,Male,Medium,48,C,Delhi,2202,Clothing,Makeup,BrandX,886,592,5,4,851,Credit Card,2023-01-08,Online,Paid
+1074,Customer_8,54,Male,Low,73,A,Hyderabad,2065,Beauty,Shirts,BrandZ,422,986,20,3,245,Net Banking,2023-01-09,Online,Paid
+1074,Customer_9,23,Female,High,72,B,Bangalore,2107,Home,Shirts,BrandZ,693,538,15,2,431,Credit Card,2023-01-10,Online,Paid
+1087,Customer_10,43,Male,Medium,45,C,Mumbai,2267,Electronics,Mobile,BrandY,280,766,20,2,471,UPI,2023-01-11,Online,Pending
+1099,Customer_11,51,Female,Medium,81,B,Bangalore,2221,Electronics,Makeup,BrandY,598,296,20,2,678,Net Banking,2023-01-12,Offline,Pending
+1023,Customer_12,62,Female,Low,81,B,Bangalore,2803,Home,Mobile,BrandX,419,670,10,4,412,Credit Card,2023-01-13,Online,Pending
+1002,Customer_13,23,Female,Low,97,A,Hyderabad,2529,Home,Makeup,BrandY,182,779,15,4,729,Cash,2023-01-14,Online,Pending
+1021,Customer_14,54,Female,High,96,C,Delhi,2089,Home,Mobile,BrandX,402,583,5,4,443,Cash,2023-01-15,Offline,Paid
+1052,Customer_15,50,Male,Medium,72,C,Hyderabad,2692,Beauty,Shirts,BrandY,361,293,10,2,544,Net Banking,2023-01-16,Online,Paid
+1001,Customer_16,39,Female,High,19,B,Delhi,2254,Electronics,Furniture,BrandY,883,438,5,2,662,Cash,2023-01-17,Online,Pending
+1087,Customer_17,38,Male,Medium,63,C,Bangalore,2454,Home,Shirts,BrandY,299,163,0,1,1070,Credit Card,2023-01-18,Online,Pending
+1029,Customer_18,23,Female,High,38,B,Mumbai,2252,Beauty,Mobile,BrandZ,339,406,20,1,959,Net Banking,2023-01-19,Online,Paid
+1037,Customer_19,23,Female,Low,67,B,Hyderabad,2256,Home,Mobile,BrandZ,791,1007,0,4,1069,Cash,2023-01-20,Online,Pending
+1001,Customer_20,21,Male,Medium,59,A,Delhi,2382,Clothing,Furniture,BrandX,782,1092,20,2,842,Cash,2023-01-21,Online,Paid
+1063,Customer_21,47,Male,High,69,A,Bangalore,2441,Clothing,Makeup,BrandY,394,613,10,4,384,UPI,2023-01-22,Offline,Paid
+1059,Customer_22,28,Male,Low,13,A,Delhi,2857,Electronics,Mobile,BrandX,611,419,5,4,1101,UPI,2023-01-23,Offline,Paid
+1020,Customer_23,47,Female,Low,47,B,Delhi,2598,Beauty,Mobile,BrandY,788,772,5,1,1181,Net Banking,2023-01-24,Offline,Pending
+1032,Customer_24,48,Female,High,61,C,Delhi,2089,Clothing,Mobile,BrandZ,980,221,10,3,688,UPI,2023-01-25,Offline,Pending
+1075,Customer_25,41,Male,Medium,31,A,Bangalore,2748,Clothing,Furniture,BrandZ,495,223,15,4,969,Credit Card,2023-01-26,Online,Pending
+1057,Customer_26,26,Male,Medium,80,C,Mumbai,2389,Beauty,Shirts,BrandY,848,504,0,3,421,Cash,2023-01-27,Online,Pending
+1021,Customer_27,20,Male,Low,96,A,Mumbai,2581,Home,Mobile,BrandY,237,646,0,3,1178,Cash,2023-01-28,Online,Pending
+1088,Customer_28,48,Male,Medium,22,A,Mumbai,2043,Beauty,Furniture,BrandZ,938,1137,5,2,742,Cash,2023-01-29,Offline,Paid
+1048,Customer_29,57,Female,Medium,93,B,Delhi,2711,Home,Mobile,BrandZ,977,729,5,2,1125,Net Banking,2023-01-30,Offline,Pending
+1090,Customer_30,54,Male,Medium,86,A,Bangalore,2663,Clothing,Makeup,BrandX,922,1059,5,4,264,Net Banking,2023-01-31,Online,Paid
+1058,Customer_31,53,Male,Low,43,A,Delhi,2597,Clothing,Furniture,BrandZ,228,522,10,1,412,UPI,2023-02-01,Online,Paid
+1041,Customer_32,41,Male,High,67,B,Mumbai,2018,Clothing,Mobile,BrandY,148,511,15,1,356,Cash,2023-02-02,Offline,Paid
+1091,Customer_33,48,Male,Medium,54,C,Mumbai,2100,Electronics,Furniture,BrandX,775,242,0,4,452,Cash,2023-02-03,Offline,Pending
+1059,Customer_34,23,Female,Low,10,A,Bangalore,2913,Electronics,Mobile,BrandY,888,473,20,4,261,Cash,2023-02-04,Offline,Pending
+1079,Customer_35,19,Male,Low,42,B,Delhi,2606,Electronics,Shirts,BrandX,392,533,10,1,334,Cash,2023-02-05,Offline,Pending
+1014,Customer_36,37,Female,High,64,A,Hyderabad,2765,Beauty,Mobile,BrandY,727,724,0,3,1050,Cash,2023-02-06,Online,Pending
+1061,Customer_37,45,Male,Medium,21,B,Hyderabad,2356,Clothing,Furniture,BrandZ,635,885,15,4,370,Credit Card,2023-02-07,Offline,Pending
+1061,Customer_38,28,Male,Medium,80,C,Mumbai,2541,Clothing,Makeup,BrandY,410,886,10,3,1047,Cash,2023-02-08,Offline,Pending
+1046,Customer_39,21,Female,High,76,C,Bangalore,2760,Beauty,Makeup,BrandX,636,495,0,4,771,Credit Card,2023-02-09,Online,Pending
+1061,Customer_40,32,Male,High,66,B,Delhi,2937,Electronics,Makeup,BrandY,738,868,10,4,576,Cash,2023-02-10,Online,Pending
+1050,Customer_41,23,Female,Low,41,B,Delhi,2032,Beauty,Mobile,BrandX,333,930,0,3,793,Net Banking,2023-02-11,Online,Paid
+1054,Customer_42,47,Female,Low,24,B,Mumbai,2969,Electronics,Shirts,BrandY,308,1169,0,3,717,Net Banking,2023-02-12,Offline,Pending
+1063,Customer_43,55,Male,High,35,C,Mumbai,2228,Clothing,Mobile,BrandZ,704,813,15,1,592,Credit Card,2023-02-13,Offline,Paid
+1002,Customer_44,19,Female,Medium,56,A,Delhi,2523,Home,Makeup,BrandZ,193,749,20,4,750,Cash,2023-02-14,Offline,Paid
+1050,Customer_45,32,Female,Low,30,C,Delhi,2629,Electronics,Furniture,BrandY,426,160,15,2,653,Net Banking,2023-02-15,Offline,Paid
+1006,Customer_46,28,Female,Low,57,B,Mumbai,2861,Clothing,Makeup,BrandY,324,336,0,2,280,Net Banking,2023-02-16,Online,Paid
+1020,Customer_47,25,Female,Medium,94,B,Delhi,2154,Clothing,Furniture,BrandY,989,875,10,4,367,Cash,2023-02-17,Online,Pending
+1072,Customer_48,43,Female,Low,47,C,Hyderabad,2422,Home,Shirts,BrandX,891,1188,15,4,837,Cash,2023-02-18,Offline,Pending
+1038,Customer_49,62,Female,Medium,35,B,Mumbai,2904,Clothing,Furniture,BrandY,110,927,20,4,320,Net Banking,2023-02-19,Offline,Paid
+1017,Customer_50,61,Female,Medium,19,C,Delhi,2245,Clothing,Mobile,BrandY,428,560,0,3,761,Cash,2023-02-20,Offline,Paid
+1003,Customer_51,22,Female,Medium,8,B,Mumbai,2404,Electronics,Mobile,BrandX,111,1105,15,2,1141,UPI,2023-02-21,Online,Paid
+1088,Customer_52,23,Male,High,26,A,Bangalore,2843,Electronics,Mobile,BrandZ,134,734,15,2,206,Cash,2023-02-22,Offline,Pending
+1059,Customer_53,43,Male,High,71,A,Mumbai,2758,Home,Furniture,BrandY,546,726,15,2,395,Net Banking,2023-02-23,Online,Paid
+1013,Customer_54,21,Female,High,30,B,Mumbai,2540,Home,Mobile,BrandY,551,1190,15,4,293,Net Banking,2023-02-24,Offline,Paid
+1008,Customer_55,36,Male,Medium,7,C,Bangalore,2160,Clothing,Mobile,BrandZ,839,1138,10,3,517,Credit Card,2023-02-25,Online,Pending
+1089,Customer_56,37,Female,Medium,67,A,Hyderabad,2746,Electronics,Mobile,BrandZ,319,892,20,4,367,UPI,2023-02-26,Online,Paid
+1052,Customer_57,50,Female,High,65,C,Delhi,2701,Home,Shirts,BrandX,540,353,20,1,765,Net Banking,2023-02-27,Offline,Pending
+1001,Customer_58,37,Male,Low,36,B,Bangalore,2116,Home,Furniture,BrandY,752,1123,0,1,591,UPI,2023-02-28,Online,Pending
+1083,Customer_59,29,Female,Medium,25,C,Mumbai,2270,Beauty,Furniture,BrandY,634,1089,5,2,990,Cash,2023-03-01,Online,Paid
+1091,Customer_60,64,Female,Low,37,A,Delhi,2769,Home,Makeup,BrandX,694,254,10,4,1105,Net Banking,2023-03-02,Offline,Paid
+1059,Customer_61,18,Female,Low,1,C,Bangalore,2691,Clothing,Furniture,BrandZ,328,402,0,1,848,Credit Card,2023-03-03,Online,Paid
+1070,Customer_62,43,Female,Medium,15,C,Delhi,2486,Electronics,Shirts,BrandX,443,444,0,1,1025,Net Banking,2023-03-04,Offline,Pending
+1043,Customer_63,31,Male,Medium,37,B,Delhi,2884,Home,Furniture,BrandZ,179,817,15,4,925,Credit Card,2023-03-05,Online,Pending
+1007,Customer_64,55,Female,Low,13,B,Bangalore,2171,Beauty,Shirts,BrandX,452,698,5,3,911,UPI,2023-03-06,Online,Pending
+1046,Customer_65,54,Female,Low,8,B,Delhi,2949,Electronics,Shirts,BrandZ,495,780,5,4,1094,Credit Card,2023-03-07,Online,Paid
+1034,Customer_66,28,Female,High,5,A,Hyderabad,2273,Home,Furniture,BrandX,389,448,10,4,1072,Cash,2023-03-08,Online,Paid
+1077,Customer_67,53,Male,High,60,A,Bangalore,2258,Beauty,Makeup,BrandZ,554,250,5,3,1084,Cash,2023-03-09,Offline,Paid
+1080,Customer_68,30,Female,Medium,73,B,Hyderabad,2134,Home,Mobile,BrandZ,942,481,0,2,174,Cash,2023-03-10,Offline,Paid
+1035,Customer_69,60,Male,High,1,B,Mumbai,2682,Electronics,Mobile,BrandZ,770,985,5,2,955,Net Banking,2023-03-11,Offline,Paid
+1049,Customer_70,20,Male,High,36,A,Delhi,2721,Electronics,Furniture,BrandZ,227,542,5,2,913,Cash,2023-03-12,Online,Paid
+1003,Customer_71,50,Female,High,35,A,Mumbai,2747,Electronics,Furniture,BrandZ,801,1023,20,3,583,Cash,2023-03-13,Online,Pending
+1001,Customer_72,23,Female,High,66,A,Mumbai,2421,Clothing,Shirts,BrandY,642,530,0,1,1028,Net Banking,2023-03-14,Offline,Pending
+1005,Customer_73,27,Male,Low,63,A,Delhi,2420,Home,Furniture,BrandZ,997,241,5,3,1059,UPI,2023-03-15,Offline,Pending
+1053,Customer_74,22,Female,Medium,23,B,Bangalore,2185,Clothing,Shirts,BrandY,458,596,5,4,714,Cash,2023-03-16,Offline,Paid
+1003,Customer_75,40,Male,High,9,A,Delhi,2928,Electronics,Makeup,BrandZ,626,258,15,3,255,Cash,2023-03-17,Offline,Pending
+1053,Customer_76,27,Male,Low,34,B,Mumbai,2363,Beauty,Furniture,BrandY,412,466,5,1,245,Net Banking,2023-03-18,Online,Pending
+1092,Customer_77,61,Female,Low,46,C,Mumbai,2954,Home,Mobile,BrandY,174,591,5,1,317,UPI,2023-03-19,Offline,Pending
+1062,Customer_78,19,Female,Low,78,C,Bangalore,2606,Clothing,Mobile,BrandX,645,367,20,4,191,UPI,2023-03-20,Online,Paid
+1017,Customer_79,30,Male,High,4,A,Delhi,2377,Home,Furniture,BrandZ,970,822,0,2,253,UPI,2023-03-21,Offline,Paid
+1089,Customer_80,57,Male,High,30,C,Mumbai,2522,Beauty,Shirts,BrandX,295,427,10,1,669,Net Banking,2023-03-22,Online,Pending
+1043,Customer_81,19,Male,Medium,95,C,Hyderabad,2579,Clothing,Mobile,BrandX,942,1158,0,1,431,Credit Card,2023-03-23,Offline,Paid
+1033,Customer_82,37,Male,High,75,C,Mumbai,2890,Electronics,Shirts,BrandZ,128,718,15,1,1096,Credit Card,2023-03-24,Offline,Paid
+1073,Customer_83,18,Female,High,99,A,Mumbai,2721,Clothing,Furniture,BrandX,805,1159,0,4,898,Cash,2023-03-25,Online,Paid
+1061,Customer_84,54,Female,Low,72,A,Bangalore,2195,Home,Furniture,BrandZ,115,1024,5,1,980,Cash,2023-03-26,Online,Paid
+1099,Customer_85,26,Female,Medium,3,C,Hyderabad,2880,Home,Mobile,BrandX,522,615,15,2,198,Cash,2023-03-27,Offline,Pending
+1013,Customer_86,34,Female,High,14,B,Mumbai,2097,Home,Furniture,BrandZ,688,988,0,4,264,Credit Card,2023-03-28,Online,Paid
+1094,Customer_87,26,Female,High,60,C,Mumbai,2604,Home,Makeup,BrandZ,904,903,15,2,652,Net Banking,2023-03-29,Offline,Pending
+1047,Customer_88,28,Male,Low,77,A,Hyderabad,2983,Electronics,Makeup,BrandZ,692,987,10,1,1135,Cash,2023-03-30,Online,Pending
+1014,Customer_89,32,Female,Low,45,A,Delhi,2021,Clothing,Mobile,BrandY,504,179,0,1,220,Net Banking,2023-03-31,Offline,Paid
+1071,Customer_90,41,Female,High,96,A,Delhi,2449,Electronics,Makeup,BrandX,735,508,5,2,1161,Cash,2023-04-01,Offline,Paid
+1077,Customer_91,55,Female,Medium,34,C,Mumbai,2171,Electronics,Shirts,BrandY,630,235,15,4,216,Net Banking,2023-04-02,Offline,Paid
+1086,Customer_92,52,Female,Medium,45,B,Mumbai,2382,Electronics,Mobile,BrandX,713,896,20,4,1116,Net Banking,2023-04-03,Offline,Pending
+1061,Customer_93,47,Female,Low,61,A,Delhi,2133,Home,Mobile,BrandX,176,462,15,2,330,Credit Card,2023-04-04,Offline,Pending
+1039,Customer_94,48,Male,Low,83,A,Bangalore,2425,Home,Shirts,BrandX,328,514,20,1,762,Net Banking,2023-04-05,Offline,Pending
+1084,Customer_95,22,Male,High,16,C,Hyderabad,2024,Home,Makeup,BrandY,396,1054,5,3,846,UPI,2023-04-06,Offline,Pending
+1079,Customer_96,61,Male,Low,66,B,Hyderabad,2502,Clothing,Makeup,BrandX,609,847,10,2,752,Credit Card,2023-04-07,Offline,Pending
+1081,Customer_97,31,Female,High,40,C,Bangalore,2184,Beauty,Makeup,BrandY,814,280,20,2,397,Cash,2023-04-08,Online,Pending
+1052,Customer_98,28,Male,Medium,17,A,Bangalore,2084,Home,Mobile,BrandZ,672,952,10,2,508,Credit Card,2023-04-09,Online,Pending
+1023,Customer_99,26,Male,Medium,34,B,Bangalore,2566,Clothing,Mobile,BrandX,637,938,15,1,398,UPI,2023-04-10,Online,Paid
+1025,Customer_100,51,Female,High,16,B,Bangalore,2762,Home,Makeup,BrandX,682,500,5,4,787,UPI,2023-04-11,Offline,Pending
+1088,Customer_101,29,Female,Low,60,A,Bangalore,2143,Home,Furniture,BrandZ,714,329,20,1,1099,Net Banking,2023-04-12,Offline,Pending
+1059,Customer_102,52,Female,Medium,66,B,Bangalore,2862,Electronics,Makeup,BrandZ,425,923,15,2,812,UPI,2023-04-13,Offline,Pending
+1040,Customer_103,52,Male,Low,66,B,Hyderabad,2909,Electronics,Shirts,BrandX,462,659,0,1,325,UPI,2023-04-14,Online,Pending
+1028,Customer_104,18,Male,Medium,90,C,Bangalore,2678,Electronics,Mobile,BrandZ,768,514,15,1,872,UPI,2023-04-15,Online,Paid
+1014,Customer_105,57,Female,High,13,A,Delhi,2411,Clothing,Shirts,BrandY,974,1130,10,2,575,UPI,2023-04-16,Online,Pending
+1044,Customer_106,39,Female,High,56,A,Bangalore,2223,Beauty,Shirts,BrandY,458,502,5,1,920,Cash,2023-04-17,Online,Pending
+1064,Customer_107,46,Male,High,31,A,Bangalore,2219,Beauty,Mobile,BrandX,805,949,5,3,852,Cash,2023-04-18,Online,Paid
+1088,Customer_108,25,Male,Medium,34,A,Hyderabad,2178,Clothing,Furniture,BrandY,886,561,15,1,230,Credit Card,2023-04-19,Offline,Paid
+1070,Customer_109,28,Female,Low,39,A,Hyderabad,2630,Home,Makeup,BrandY,423,884,0,1,1076,Net Banking,2023-04-20,Online,Pending
+1008,Customer_110,58,Female,Low,67,B,Bangalore,2432,Clothing,Shirts,BrandX,797,1130,10,4,287,Cash,2023-04-21,Offline,Pending
+1087,Customer_111,54,Male,Low,8,C,Hyderabad,2264,Home,Mobile,BrandZ,425,267,15,4,619,UPI,2023-04-22,Offline,Pending
+1000,Customer_112,31,Female,Medium,87,A,Mumbai,2953,Clothing,Shirts,BrandX,724,631,15,2,499,Net Banking,2023-04-23,Offline,Pending
+1007,Customer_113,47,Male,Medium,78,C,Hyderabad,2428,Clothing,Makeup,BrandY,924,341,5,2,459,Cash,2023-04-24,Online,Pending
+1087,Customer_114,52,Male,Medium,55,C,Hyderabad,2661,Clothing,Furniture,BrandX,264,740,10,4,1193,Credit Card,2023-04-25,Online,Pending
+1062,Customer_115,38,Male,Medium,27,B,Hyderabad,2415,Beauty,Furniture,BrandX,672,739,0,3,1151,UPI,2023-04-26,Offline,Paid
+1010,Customer_116,54,Male,Medium,93,A,Hyderabad,2452,Electronics,Furniture,BrandY,703,808,5,1,418,Net Banking,2023-04-27,Online,Paid
+1080,Customer_117,22,Female,Low,53,B,Delhi,2726,Clothing,Mobile,BrandY,897,256,15,3,1176,Cash,2023-04-28,Online,Pending
+1007,Customer_118,36,Female,Medium,39,A,Delhi,2196,Beauty,Mobile,BrandX,554,531,5,3,919,Net Banking,2023-04-29,Offline,Pending
+1034,Customer_119,31,Male,Medium,65,B,Delhi,2553,Electronics,Furniture,BrandY,252,932,5,4,165,Cash,2023-04-30,Offline,Pending
+1034,Customer_120,43,Male,Low,17,C,Bangalore,2052,Electronics,Makeup,BrandY,836,539,20,2,755,Credit Card,2023-05-01,Offline,Paid
+1032,Customer_121,21,Male,Medium,30,A,Bangalore,2479,Clothing,Makeup,BrandY,226,393,5,1,962,UPI,2023-05-02,Offline,Pending
+1004,Customer_122,42,Male,Low,53,C,Mumbai,2442,Home,Mobile,BrandY,292,734,5,2,631,Credit Card,2023-05-03,Offline,Paid
+1040,Customer_123,62,Male,Low,13,C,Delhi,2329,Home,Furniture,BrandY,726,1018,10,3,1044,UPI,2023-05-04,Online,Paid
+1027,Customer_124,59,Female,High,21,B,Bangalore,2250,Home,Makeup,BrandY,873,617,5,3,418,UPI,2023-05-05,Offline,Pending
+1006,Customer_125,42,Female,High,19,A,Hyderabad,2806,Clothing,Makeup,BrandZ,629,1015,0,2,563,Net Banking,2023-05-06,Online,Paid
+1072,Customer_126,35,Female,High,53,C,Hyderabad,2889,Home,Makeup,BrandX,109,1083,15,2,174,Cash,2023-05-07,Online,Pending
+1071,Customer_127,57,Female,High,19,B,Delhi,2782,Beauty,Mobile,BrandY,191,753,10,4,465,Credit Card,2023-05-08,Offline,Paid
+1011,Customer_128,25,Male,Medium,57,A,Mumbai,2966,Beauty,Furniture,BrandX,238,1164,5,2,720,Credit Card,2023-05-09,Offline,Pending
+1033,Customer_129,56,Male,High,25,A,Mumbai,2924,Beauty,Shirts,BrandZ,580,1009,0,2,874,Credit Card,2023-05-10,Online,Pending
+1032,Customer_130,57,Male,Low,86,C,Hyderabad,2122,Beauty,Furniture,BrandY,548,162,15,4,1157,Net Banking,2023-05-11,Offline,Paid
+1047,Customer_131,31,Male,Medium,31,A,Mumbai,2878,Electronics,Furniture,BrandX,432,448,10,2,538,Net Banking,2023-05-12,Online,Paid
+1022,Customer_132,49,Male,High,81,C,Delhi,2386,Beauty,Mobile,BrandY,968,936,0,3,871,Net Banking,2023-05-13,Offline,Paid
+1061,Customer_133,55,Female,Low,55,A,Hyderabad,2338,Home,Makeup,BrandY,439,298,5,2,593,UPI,2023-05-14,Offline,Pending
+1087,Customer_134,50,Male,Medium,23,B,Bangalore,2777,Clothing,Makeup,BrandY,151,271,20,1,1148,Credit Card,2023-05-15,Online,Paid
+1036,Customer_135,40,Female,Medium,32,C,Bangalore,2347,Home,Mobile,BrandY,806,687,20,3,846,UPI,2023-05-16,Online,Paid
+1098,Customer_136,32,Female,High,62,C,Mumbai,2028,Beauty,Mobile,BrandY,565,525,10,4,1120,Credit Card,2023-05-17,Offline,Pending
+1043,Customer_137,50,Female,Medium,74,A,Hyderabad,2974,Electronics,Mobile,BrandY,817,231,0,3,870,Credit Card,2023-05-18,Offline,Pending
+1085,Customer_138,42,Female,Low,10,A,Hyderabad,2034,Beauty,Mobile,BrandY,898,641,15,4,517,Cash,2023-05-19,Offline,Paid
+1090,Customer_139,34,Male,Medium,100,C,Bangalore,2517,Clothing,Mobile,BrandZ,574,505,0,1,491,Credit Card,2023-05-20,Online,Paid
+1034,Customer_140,50,Female,Low,72,A,Hyderabad,2395,Home,Shirts,BrandZ,500,1074,20,1,453,Net Banking,2023-05-21,Offline,Paid
+1064,Customer_141,64,Female,Medium,54,B,Hyderabad,2622,Clothing,Furniture,BrandY,538,1154,10,3,913,Net Banking,2023-05-22,Offline,Pending
+1098,Customer_142,19,Female,High,52,A,Hyderabad,2293,Clothing,Furniture,BrandY,977,272,5,2,965,Net Banking,2023-05-23,Offline,Pending
+1046,Customer_143,31,Male,Low,20,B,Mumbai,2588,Clothing,Furniture,BrandZ,704,857,0,3,261,Cash,2023-05-24,Offline,Paid
+1077,Customer_144,57,Male,Medium,32,B,Hyderabad,2348,Home,Makeup,BrandZ,920,479,20,3,1027,Cash,2023-05-25,Online,Pending
+1002,Customer_145,57,Male,Medium,14,B,Delhi,2146,Beauty,Shirts,BrandZ,756,1140,15,1,1179,UPI,2023-05-26,Online,Paid
+1000,Customer_146,56,Female,Medium,50,B,Mumbai,2066,Clothing,Furniture,BrandY,697,472,10,4,1079,Credit Card,2023-05-27,Online,Paid
+1004,Customer_147,23,Female,Low,28,B,Hyderabad,2903,Home,Makeup,BrandX,608,919,5,3,852,Credit Card,2023-05-28,Offline,Pending
+1089,Customer_148,23,Male,Low,53,A,Hyderabad,2519,Electronics,Shirts,BrandX,252,582,0,2,995,Net Banking,2023-05-29,Offline,Paid
+1013,Customer_149,20,Female,Low,24,B,Delhi,2121,Home,Shirts,BrandX,613,859,15,1,1093,Net Banking,2023-05-30,Offline,Paid
+1026,Customer_150,24,Male,High,79,A,Mumbai,2339,Electronics,Makeup,BrandX,602,943,5,3,428,Net Banking,2023-05-31,Online,Pending
+1008,Customer_151,25,Male,High,22,B,Bangalore,2174,Home,Shirts,BrandY,953,861,20,3,531,Net Banking,2023-06-01,Online,Paid
+1078,Customer_152,59,Female,Low,30,C,Bangalore,2899,Beauty,Makeup,BrandX,871,688,20,2,162,Net Banking,2023-06-02,Online,Paid
+1014,Customer_153,32,Female,Medium,63,B,Mumbai,2690,Clothing,Furniture,BrandZ,775,750,15,3,452,Net Banking,2023-06-03,Online,Pending
+1089,Customer_154,64,Female,High,4,C,Hyderabad,2596,Beauty,Makeup,BrandZ,105,406,20,3,309,Credit Card,2023-06-04,Offline,Paid
+1041,Customer_155,46,Female,Low,77,B,Hyderabad,2450,Home,Shirts,BrandX,599,1020,10,3,303,Cash,2023-06-05,Online,Paid
+1076,Customer_156,50,Male,Medium,59,B,Bangalore,2556,Clothing,Furniture,BrandZ,760,1048,15,3,903,Net Banking,2023-06-06,Online,Pending
+1050,Customer_157,47,Male,High,87,B,Bangalore,2135,Electronics,Furniture,BrandY,816,958,20,2,330,Credit Card,2023-06-07,Offline,Pending
+1062,Customer_158,56,Male,Medium,8,C,Bangalore,2854,Home,Mobile,BrandX,217,826,0,3,526,Net Banking,2023-06-08,Online,Pending
+1095,Customer_159,44,Male,Medium,82,C,Delhi,2015,Clothing,Mobile,BrandX,584,420,20,3,925,UPI,2023-06-09,Offline,Paid
+1051,Customer_160,53,Male,Medium,12,B,Bangalore,2332,Electronics,Shirts,BrandY,700,699,10,3,165,UPI,2023-06-10,Offline,Pending
+1095,Customer_161,46,Female,Medium,31,A,Delhi,2194,Electronics,Makeup,BrandZ,765,717,5,1,402,Credit Card,2023-06-11,Offline,Paid
+1003,Customer_162,55,Male,High,78,B,Mumbai,2495,Beauty,Makeup,BrandY,778,1135,5,2,180,Cash,2023-06-12,Offline,Pending
+1093,Customer_163,50,Male,High,34,C,Hyderabad,2008,Home,Shirts,BrandY,567,508,20,1,1194,UPI,2023-06-13,Offline,Paid
+1022,Customer_164,54,Male,High,82,B,Bangalore,2827,Electronics,Furniture,BrandZ,260,947,5,1,880,UPI,2023-06-14,Online,Paid
+1014,Customer_165,44,Female,Low,98,C,Hyderabad,2333,Clothing,Shirts,BrandY,369,1036,20,2,438,Cash,2023-06-15,Online,Pending
+1042,Customer_166,50,Female,High,75,C,Hyderabad,2332,Electronics,Shirts,BrandZ,155,360,10,1,647,UPI,2023-06-16,Offline,Paid
+1028,Customer_167,21,Female,Medium,76,C,Bangalore,2326,Electronics,Furniture,BrandZ,327,436,5,1,697,Net Banking,2023-06-17,Online,Paid
+1035,Customer_168,39,Female,High,49,B,Bangalore,2014,Beauty,Makeup,BrandY,948,892,0,1,1110,Cash,2023-06-18,Offline,Pending
+1012,Customer_169,19,Male,Medium,79,C,Mumbai,2838,Beauty,Shirts,BrandZ,248,1196,20,2,281,UPI,2023-06-19,Online,Paid
+1031,Customer_170,27,Male,Low,57,C,Delhi,2613,Clothing,Makeup,BrandY,145,445,5,3,1007,Cash,2023-06-20,Online,Paid
+1070,Customer_171,22,Female,Medium,95,B,Delhi,2225,Beauty,Shirts,BrandZ,243,155,10,4,670,Net Banking,2023-06-21,Online,Paid
+1058,Customer_172,27,Female,Medium,93,C,Hyderabad,2424,Electronics,Furniture,BrandX,849,699,10,4,179,UPI,2023-06-22,Online,Pending
+1085,Customer_173,50,Male,Medium,26,B,Bangalore,2789,Electronics,Furniture,BrandZ,883,830,0,2,776,Credit Card,2023-06-23,Online,Pending
+1027,Customer_174,55,Male,Low,18,C,Mumbai,2407,Beauty,Mobile,BrandZ,731,944,10,4,153,UPI,2023-06-24,Online,Pending
+1065,Customer_175,30,Female,High,96,A,Mumbai,2112,Electronics,Furniture,BrandY,439,352,10,2,658,UPI,2023-06-25,Online,Pending
+1041,Customer_176,48,Female,High,86,A,Mumbai,2996,Electronics,Mobile,BrandZ,512,474,5,2,165,Net Banking,2023-06-26,Offline,Pending
+1044,Customer_177,64,Female,Low,38,C,Mumbai,2427,Clothing,Shirts,BrandX,831,974,20,4,1146,Credit Card,2023-06-27,Offline,Pending
+1061,Customer_178,53,Female,Medium,81,A,Mumbai,2000,Beauty,Makeup,BrandX,619,393,15,1,1105,Credit Card,2023-06-28,Offline,Pending
+1056,Customer_179,62,Male,High,87,B,Delhi,2265,Electronics,Furniture,BrandZ,443,476,10,3,412,Credit Card,2023-06-29,Online,Pending
+1005,Customer_180,41,Male,Low,88,A,Delhi,2490,Beauty,Furniture,BrandZ,486,1136,10,4,414,Net Banking,2023-06-30,Online,Paid
+1027,Customer_181,32,Male,High,50,C,Delhi,2207,Clothing,Furniture,BrandX,572,910,15,4,527,Net Banking,2023-07-01,Offline,Paid
+1027,Customer_182,46,Female,Low,8,C,Bangalore,2621,Beauty,Shirts,BrandY,374,1186,10,4,1112,Net Banking,2023-07-02,Offline,Paid
+1043,Customer_183,25,Female,Medium,41,B,Hyderabad,2711,Electronics,Mobile,BrandX,452,1056,5,4,625,Net Banking,2023-07-03,Online,Paid
+1083,Customer_184,22,Male,High,6,C,Mumbai,2951,Beauty,Shirts,BrandX,165,514,5,2,478,Net Banking,2023-07-04,Offline,Pending
+1029,Customer_185,46,Male,Low,69,B,Bangalore,2368,Electronics,Makeup,BrandZ,178,222,15,2,587,Credit Card,2023-07-05,Offline,Paid
+1061,Customer_186,64,Male,High,44,A,Mumbai,2984,Electronics,Shirts,BrandZ,697,423,10,3,165,Cash,2023-07-06,Offline,Paid
+1074,Customer_187,21,Male,High,64,A,Delhi,2305,Electronics,Makeup,BrandX,735,357,10,3,1017,Net Banking,2023-07-07,Offline,Paid
+1091,Customer_188,29,Female,High,29,B,Bangalore,2011,Clothing,Furniture,BrandY,301,273,20,4,660,Cash,2023-07-08,Online,Paid
+1088,Customer_189,62,Male,High,28,B,Delhi,2344,Beauty,Makeup,BrandX,761,1183,10,4,1133,UPI,2023-07-09,Offline,Paid
+1061,Customer_190,19,Male,Low,11,C,Mumbai,2464,Clothing,Makeup,BrandX,657,692,5,4,730,UPI,2023-07-10,Offline,Pending
+1096,Customer_191,44,Male,Medium,65,A,Mumbai,2699,Beauty,Mobile,BrandY,212,209,0,3,155,Net Banking,2023-07-11,Offline,Pending
+1000,Customer_192,48,Male,Low,19,B,Hyderabad,2665,Clothing,Makeup,BrandX,190,1048,0,4,1168,UPI,2023-07-12,Offline,Paid
+1026,Customer_193,53,Male,Low,9,A,Mumbai,2493,Home,Makeup,BrandX,240,1035,0,1,956,Cash,2023-07-13,Online,Paid
+1061,Customer_194,53,Male,Low,27,B,Delhi,2367,Electronics,Shirts,BrandZ,388,931,0,3,768,UPI,2023-07-14,Offline,Paid
+1076,Customer_195,43,Male,Medium,34,A,Mumbai,2845,Electronics,Furniture,BrandY,829,591,10,1,554,UPI,2023-07-15,Offline,Paid
+1002,Customer_196,60,Female,High,44,C,Hyderabad,2936,Clothing,Shirts,BrandZ,688,1060,10,4,1146,Cash,2023-07-16,Offline,Pending
+1069,Customer_197,44,Female,High,68,A,Hyderabad,2419,Home,Shirts,BrandZ,510,1175,20,2,743,UPI,2023-07-17,Offline,Paid
+1071,Customer_198,22,Female,High,100,A,Delhi,2888,Electronics,Furniture,BrandY,476,981,10,1,715,Net Banking,2023-07-18,Offline,Pending
+1026,Customer_199,37,Female,Medium,82,A,Bangalore,2790,Beauty,Furniture,BrandY,483,1157,0,3,901,Cash,2023-07-19,Online,Paid
+1008,Customer_200,28,Male,High,15,A,Mumbai,2170,Clothing,Makeup,BrandX,945,775,15,1,161,Cash,2023-07-20,Offline,Pending
+1061,Customer_201,27,Female,Medium,51,A,Hyderabad,2133,Electronics,Makeup,BrandZ,251,1147,15,3,314,Credit Card,2023-07-21,Offline,Pending
+1036,Customer_202,57,Female,High,13,C,Mumbai,2964,Electronics,Mobile,BrandY,934,883,5,4,1027,Credit Card,2023-07-22,Online,Pending
+1096,Customer_203,55,Male,High,83,B,Mumbai,2426,Clothing,Shirts,BrandZ,850,240,5,1,227,Cash,2023-07-23,Offline,Paid
+1050,Customer_204,23,Male,Low,49,A,Bangalore,2024,Clothing,Furniture,BrandZ,726,316,10,2,763,Cash,2023-07-24,Online,Paid
+1043,Customer_205,25,Female,Medium,70,C,Hyderabad,2529,Beauty,Makeup,BrandY,418,1108,15,1,1018,Credit Card,2023-07-25,Offline,Pending
+1023,Customer_206,40,Female,Low,56,A,Mumbai,2189,Beauty,Furniture,BrandX,468,356,0,2,961,Net Banking,2023-07-26,Online,Paid
+1078,Customer_207,64,Male,Low,76,A,Hyderabad,2140,Electronics,Makeup,BrandZ,705,665,0,3,916,UPI,2023-07-27,Online,Paid
+1058,Customer_208,43,Female,Low,51,B,Delhi,2554,Electronics,Mobile,BrandY,659,896,0,4,231,UPI,2023-07-28,Offline,Pending
+1031,Customer_209,63,Male,Medium,37,A,Delhi,2845,Clothing,Mobile,BrandX,802,455,10,4,358,UPI,2023-07-29,Online,Paid
+1095,Customer_210,60,Male,Medium,17,C,Mumbai,2795,Electronics,Furniture,BrandZ,561,544,10,2,671,Cash,2023-07-30,Offline,Pending
+1087,Customer_211,29,Male,High,58,C,Hyderabad,2657,Electronics,Mobile,BrandY,111,336,20,3,1143,Net Banking,2023-07-31,Online,Paid
+1051,Customer_212,43,Male,Low,87,B,Mumbai,2314,Clothing,Furniture,BrandZ,255,772,0,4,614,Credit Card,2023-08-01,Online,Paid
+1061,Customer_213,30,Female,High,90,A,Hyderabad,2443,Electronics,Makeup,BrandY,783,879,0,3,777,Net Banking,2023-08-02,Offline,Pending
+1057,Customer_214,57,Male,Low,29,C,Hyderabad,2318,Electronics,Shirts,BrandY,576,389,10,2,930,Net Banking,2023-08-03,Online,Pending
+1051,Customer_215,35,Male,Medium,33,A,Bangalore,2440,Home,Mobile,BrandZ,500,682,10,2,708,UPI,2023-08-04,Offline,Pending
+1011,Customer_216,42,Female,Medium,60,A,Bangalore,2091,Beauty,Makeup,BrandZ,907,290,20,1,1109,Credit Card,2023-08-05,Online,Pending
+1038,Customer_217,50,Male,Medium,91,A,Bangalore,2178,Clothing,Shirts,BrandY,276,288,20,4,240,Net Banking,2023-08-06,Online,Paid
+1001,Customer_218,64,Female,Low,89,B,Mumbai,2055,Home,Shirts,BrandX,440,608,5,4,1009,Credit Card,2023-08-07,Offline,Paid
+1002,Customer_219,57,Female,Medium,55,A,Bangalore,2154,Beauty,Shirts,BrandZ,156,219,15,1,705,Cash,2023-08-08,Offline,Paid
+1055,Customer_220,60,Female,Low,10,C,Bangalore,2671,Beauty,Makeup,BrandY,954,534,0,2,305,UPI,2023-08-09,Online,Pending
+1080,Customer_221,29,Male,High,47,A,Delhi,2110,Beauty,Makeup,BrandY,951,779,0,2,151,Credit Card,2023-08-10,Offline,Paid
+1058,Customer_222,61,Female,Low,23,C,Hyderabad,2136,Home,Furniture,BrandX,547,347,20,2,974,Cash,2023-08-11,Offline,Paid
+1001,Customer_223,53,Female,High,85,A,Hyderabad,2231,Home,Shirts,BrandX,302,354,20,2,951,Cash,2023-08-12,Online,Paid
+1001,Customer_224,21,Male,Low,21,C,Bangalore,2991,Beauty,Shirts,BrandX,796,717,5,3,1132,Cash,2023-08-13,Online,Pending
+1091,Customer_225,22,Female,High,13,C,Hyderabad,2467,Electronics,Shirts,BrandZ,732,1131,15,4,642,Net Banking,2023-08-14,Offline,Pending
+1053,Customer_226,54,Female,Medium,33,A,Delhi,2731,Electronics,Furniture,BrandY,837,954,5,4,818,Net Banking,2023-08-15,Online,Paid
+1086,Customer_227,25,Female,High,24,A,Delhi,2480,Home,Shirts,BrandY,301,1008,15,2,224,UPI,2023-08-16,Offline,Paid
+1095,Customer_228,59,Female,Medium,11,C,Bangalore,2067,Home,Makeup,BrandY,429,1031,0,2,1093,UPI,2023-08-17,Offline,Pending
+1096,Customer_229,45,Female,Medium,17,B,Delhi,2813,Home,Shirts,BrandX,462,1123,5,2,520,Cash,2023-08-18,Offline,Pending
+1000,Customer_230,48,Male,High,68,A,Hyderabad,2248,Beauty,Mobile,BrandY,991,789,20,4,736,UPI,2023-08-19,Offline,Pending
+1018,Customer_231,26,Female,Low,47,B,Mumbai,2993,Electronics,Makeup,BrandZ,553,474,5,4,478,Net Banking,2023-08-20,Offline,Pending
+1001,Customer_232,46,Female,Low,25,A,Hyderabad,2322,Home,Furniture,BrandX,455,591,5,2,739,UPI,2023-08-21,Offline,Paid
+1052,Customer_233,31,Male,Low,94,A,Mumbai,2921,Home,Shirts,BrandX,315,953,0,3,926,Credit Card,2023-08-22,Online,Pending
+1043,Customer_234,57,Male,Low,73,A,Bangalore,2903,Clothing,Mobile,BrandX,654,437,20,1,453,Net Banking,2023-08-23,Offline,Paid
+1089,Customer_235,58,Male,Low,21,A,Mumbai,2517,Beauty,Furniture,BrandX,986,375,20,1,728,Cash,2023-08-24,Online,Pending
+1031,Customer_236,39,Female,Medium,84,B,Delhi,2975,Clothing,Furniture,BrandZ,122,1116,10,1,370,Cash,2023-08-25,Offline,Paid
+1069,Customer_237,28,Male,Low,83,A,Hyderabad,2791,Electronics,Makeup,BrandY,254,1087,10,4,1128,UPI,2023-08-26,Online,Paid
+1031,Customer_238,40,Female,Medium,83,C,Mumbai,2431,Clothing,Furniture,BrandZ,285,709,10,4,524,Net Banking,2023-08-27,Online,Pending
+1067,Customer_239,18,Female,Medium,12,C,Hyderabad,2486,Clothing,Furniture,BrandY,348,863,0,1,337,Cash,2023-08-28,Online,Paid
+1054,Customer_240,63,Male,Medium,37,B,Bangalore,2605,Clothing,Furniture,BrandZ,848,647,5,1,623,Cash,2023-08-29,Offline,Paid
+1074,Customer_241,54,Male,High,42,A,Bangalore,2428,Beauty,Furniture,BrandX,904,998,20,3,993,Net Banking,2023-08-30,Online,Paid
+1055,Customer_242,38,Female,High,17,C,Delhi,2268,Electronics,Shirts,BrandX,233,1075,20,4,680,Net Banking,2023-08-31,Online,Pending
+1016,Customer_243,43,Male,Medium,48,B,Bangalore,2708,Clothing,Shirts,BrandZ,420,209,5,4,1112,Cash,2023-09-01,Offline,Pending
+1037,Customer_244,63,Female,High,28,A,Mumbai,2536,Beauty,Shirts,BrandZ,489,406,20,1,624,UPI,2023-09-02,Online,Pending
+1023,Customer_245,53,Male,Low,41,C,Bangalore,2147,Electronics,Shirts,BrandY,533,726,5,3,1095,UPI,2023-09-03,Online,Paid
+1068,Customer_246,40,Male,Low,99,C,Delhi,2117,Home,Mobile,BrandZ,121,388,0,3,666,UPI,2023-09-04,Offline,Paid
+1097,Customer_247,18,Male,Medium,47,B,Hyderabad,2849,Clothing,Shirts,BrandZ,972,187,0,1,575,Credit Card,2023-09-05,Online,Paid
+1069,Customer_248,57,Female,Low,18,A,Hyderabad,2366,Electronics,Furniture,BrandY,699,174,0,1,282,Net Banking,2023-09-06,Online,Paid
+1085,Customer_249,32,Male,Medium,78,A,Bangalore,2849,Clothing,Shirts,BrandY,764,559,5,4,463,Cash,2023-09-07,Offline,Pending
+1010,Customer_250,38,Female,Medium,99,C,Mumbai,2065,Home,Shirts,BrandY,224,610,5,1,740,Credit Card,2023-09-08,Online,Paid
+1015,Customer_251,64,Female,Low,71,C,Delhi,2969,Electronics,Makeup,BrandZ,178,1137,15,2,1158,UPI,2023-09-09,Online,Paid
+1096,Customer_252,26,Female,High,13,C,Mumbai,2812,Beauty,Furniture,BrandY,957,506,20,3,308,Credit Card,2023-09-10,Online,Paid
+1072,Customer_253,26,Female,Low,82,A,Delhi,2369,Electronics,Shirts,BrandX,150,532,20,1,810,Cash,2023-09-11,Online,Pending
+1058,Customer_254,27,Male,Low,13,B,Bangalore,2174,Beauty,Shirts,BrandX,827,718,15,2,897,Cash,2023-09-12,Offline,Paid
+1069,Customer_255,43,Female,Medium,100,B,Delhi,2830,Electronics,Shirts,BrandX,275,582,15,3,950,Net Banking,2023-09-13,Offline,Pending
+1079,Customer_256,58,Female,Medium,31,A,Delhi,2587,Beauty,Mobile,BrandZ,969,205,0,2,559,UPI,2023-09-14,Offline,Pending
+1092,Customer_257,52,Male,Medium,2,B,Bangalore,2494,Home,Shirts,BrandX,352,726,15,2,829,UPI,2023-09-15,Offline,Paid
+1002,Customer_258,42,Female,Medium,16,C,Mumbai,2972,Home,Makeup,BrandZ,345,417,5,1,263,Credit Card,2023-09-16,Online,Paid
+1019,Customer_259,43,Male,High,9,B,Bangalore,2113,Home,Furniture,BrandZ,838,218,10,3,1046,UPI,2023-09-17,Offline,Paid
+1058,Customer_260,28,Female,High,73,B,Delhi,2110,Electronics,Furniture,BrandX,205,1051,5,2,214,Credit Card,2023-09-18,Offline,Paid
+1035,Customer_261,55,Male,High,38,B,Bangalore,2760,Home,Shirts,BrandY,292,942,15,4,833,Cash,2023-09-19,Online,Pending
+1018,Customer_262,19,Female,Medium,75,C,Delhi,2438,Clothing,Shirts,BrandZ,415,406,20,3,295,Cash,2023-09-20,Online,Pending
+1089,Customer_263,24,Male,Medium,54,A,Bangalore,2714,Home,Shirts,BrandX,401,821,5,4,1092,Cash,2023-09-21,Online,Pending
+1066,Customer_264,35,Female,Medium,56,C,Hyderabad,2146,Beauty,Furniture,BrandZ,647,639,20,1,1183,Cash,2023-09-22,Offline,Pending
+1018,Customer_265,44,Female,High,86,A,Hyderabad,2034,Beauty,Furniture,BrandY,815,895,5,4,888,Cash,2023-09-23,Online,Pending
+1019,Customer_266,51,Male,Medium,97,A,Bangalore,2998,Beauty,Mobile,BrandY,878,198,20,3,335,Credit Card,2023-09-24,Online,Pending
+1095,Customer_267,44,Male,Low,100,A,Mumbai,2308,Electronics,Makeup,BrandX,367,465,5,2,984,Cash,2023-09-25,Online,Pending
+1070,Customer_268,34,Male,Low,87,B,Delhi,2537,Clothing,Mobile,BrandZ,269,562,20,2,958,Credit Card,2023-09-26,Offline,Pending
+1051,Customer_269,60,Male,Medium,45,B,Hyderabad,2749,Home,Makeup,BrandZ,650,583,10,3,320,Cash,2023-09-27,Offline,Pending
+1032,Customer_270,61,Female,Low,34,A,Mumbai,2013,Clothing,Mobile,BrandZ,554,1175,0,2,362,Credit Card,2023-09-28,Offline,Pending
+1039,Customer_271,41,Female,Low,9,A,Delhi,2373,Clothing,Furniture,BrandZ,750,569,5,4,176,Credit Card,2023-09-29,Offline,Paid
+1038,Customer_272,42,Male,High,88,B,Hyderabad,2556,Beauty,Mobile,BrandX,391,993,10,2,1163,Credit Card,2023-09-30,Offline,Paid
+1081,Customer_273,24,Female,Medium,8,C,Hyderabad,2427,Beauty,Makeup,BrandY,663,1065,0,2,939,UPI,2023-10-01,Offline,Paid
+1000,Customer_274,23,Male,Medium,7,A,Bangalore,2727,Beauty,Shirts,BrandX,898,583,5,4,557,Credit Card,2023-10-02,Offline,Pending
+1010,Customer_275,41,Male,High,36,C,Delhi,2232,Electronics,Makeup,BrandZ,900,792,10,4,223,Credit Card,2023-10-03,Online,Paid
+1091,Customer_276,50,Female,Low,18,B,Mumbai,2704,Clothing,Shirts,BrandZ,240,206,10,4,727,Cash,2023-10-04,Online,Pending
+1056,Customer_277,46,Female,Low,3,A,Mumbai,2562,Clothing,Furniture,BrandY,245,1113,10,1,829,Credit Card,2023-10-05,Online,Pending
+1088,Customer_278,60,Female,Medium,28,C,Mumbai,2938,Electronics,Makeup,BrandZ,524,1126,15,4,935,Credit Card,2023-10-06,Offline,Paid
+1049,Customer_279,39,Female,Low,70,C,Delhi,2886,Electronics,Mobile,BrandX,413,195,20,4,998,Net Banking,2023-10-07,Offline,Pending
+1022,Customer_280,43,Female,High,44,C,Mumbai,2725,Electronics,Makeup,BrandX,283,566,0,1,1019,UPI,2023-10-08,Online,Paid
+1030,Customer_281,45,Female,High,21,B,Mumbai,2662,Clothing,Shirts,BrandY,763,997,20,2,386,Net Banking,2023-10-09,Online,Pending
+1093,Customer_282,38,Female,Medium,28,B,Mumbai,2439,Clothing,Furniture,BrandX,812,288,20,4,876,Cash,2023-10-10,Offline,Pending
+1041,Customer_283,24,Male,High,54,C,Bangalore,2501,Beauty,Mobile,BrandX,227,396,20,3,527,UPI,2023-10-11,Offline,Paid
+1098,Customer_284,34,Male,High,54,C,Bangalore,2274,Beauty,Makeup,BrandX,386,379,10,4,810,UPI,2023-10-12,Offline,Paid
+1006,Customer_285,37,Male,Medium,65,B,Delhi,2849,Clothing,Shirts,BrandX,922,941,20,4,979,Net Banking,2023-10-13,Offline,Paid
+1015,Customer_286,58,Male,High,100,C,Delhi,2075,Beauty,Mobile,BrandZ,352,786,15,1,1055,UPI,2023-10-14,Offline,Paid
+1089,Customer_287,37,Male,High,21,C,Mumbai,2438,Electronics,Furniture,BrandX,877,523,5,3,525,Net Banking,2023-10-15,Offline,Paid
+1059,Customer_288,39,Female,High,99,B,Bangalore,2731,Home,Mobile,BrandY,799,887,10,2,768,Credit Card,2023-10-16,Offline,Paid
+1001,Customer_289,45,Male,Low,13,C,Hyderabad,2859,Beauty,Furniture,BrandY,485,237,0,2,802,Net Banking,2023-10-17,Offline,Pending
+1000,Customer_290,57,Male,Medium,57,C,Hyderabad,2955,Clothing,Mobile,BrandX,329,862,5,3,1182,UPI,2023-10-18,Online,Pending
+1047,Customer_291,24,Male,Medium,49,C,Mumbai,2698,Beauty,Makeup,BrandY,370,750,5,4,345,UPI,2023-10-19,Offline,Pending
+1011,Customer_292,18,Male,Medium,54,B,Mumbai,2288,Beauty,Shirts,BrandX,870,688,5,1,956,Cash,2023-10-20,Offline,Pending
+1068,Customer_293,49,Male,Low,10,C,Bangalore,2914,Beauty,Makeup,BrandY,910,363,20,3,1042,Cash,2023-10-21,Offline,Paid
+1036,Customer_294,30,Male,Low,53,B,Bangalore,2539,Home,Makeup,BrandY,514,223,20,3,1086,Cash,2023-10-22,Online,Pending
+1031,Customer_295,47,Male,Medium,44,B,Bangalore,2890,Electronics,Furniture,BrandX,297,210,10,2,996,Cash,2023-10-23,Online,Pending
+1008,Customer_296,40,Female,Low,47,A,Delhi,2691,Clothing,Furniture,BrandX,422,847,20,1,967,UPI,2023-10-24,Offline,Paid
+1098,Customer_297,36,Female,Medium,53,A,Delhi,2252,Home,Furniture,BrandZ,155,161,20,3,713,Cash,2023-10-25,Online,Pending
+1018,Customer_298,49,Male,Low,74,C,Mumbai,2125,Clothing,Makeup,BrandX,930,963,20,1,783,Net Banking,2023-10-26,Online,Paid
+1047,Customer_299,47,Female,High,46,B,Delhi,2176,Clothing,Mobile,BrandX,302,181,10,4,828,Credit Card,2023-10-27,Online,Paid
+1079,Customer_300,46,Female,High,13,A,Bangalore,2036,Clothing,Mobile,BrandZ,882,1150,10,2,1167,UPI,2023-10-28,Offline,Paid
+1002,Customer_301,62,Female,Medium,37,C,Bangalore,2409,Home,Makeup,BrandX,720,386,15,4,157,Cash,2023-10-29,Offline,Pending
+1019,Customer_302,46,Female,Low,24,A,Delhi,2610,Electronics,Makeup,BrandX,727,707,15,1,493,UPI,2023-10-30,Offline,Paid
+1023,Customer_303,47,Male,Low,2,A,Hyderabad,2609,Clothing,Shirts,BrandZ,703,796,15,4,945,Cash,2023-10-31,Offline,Pending
+1053,Customer_304,33,Female,High,86,B,Mumbai,2126,Electronics,Furniture,BrandX,237,1136,15,2,998,UPI,2023-11-01,Offline,Pending
+1032,Customer_305,57,Female,High,81,B,Hyderabad,2482,Electronics,Furniture,BrandX,521,969,5,1,211,Cash,2023-11-02,Offline,Pending
+1023,Customer_306,36,Female,Low,100,A,Mumbai,2167,Beauty,Makeup,BrandZ,914,622,5,3,571,Credit Card,2023-11-03,Offline,Paid
+1074,Customer_307,35,Male,Low,14,A,Hyderabad,2591,Home,Makeup,BrandZ,156,261,15,4,782,Cash,2023-11-04,Online,Paid
+1071,Customer_308,18,Male,Low,10,B,Delhi,2293,Home,Mobile,BrandY,661,532,15,2,941,Net Banking,2023-11-05,Offline,Paid
+1035,Customer_309,31,Male,Low,35,C,Mumbai,2844,Beauty,Makeup,BrandX,170,166,0,3,700,UPI,2023-11-06,Offline,Pending
+1037,Customer_310,64,Male,Low,25,B,Mumbai,2637,Beauty,Mobile,BrandY,693,642,5,2,755,UPI,2023-11-07,Offline,Pending
+1083,Customer_311,19,Male,Low,3,A,Mumbai,2342,Electronics,Makeup,BrandY,471,1075,0,1,674,Net Banking,2023-11-08,Offline,Paid
+1098,Customer_312,45,Male,Medium,17,C,Bangalore,2309,Clothing,Shirts,BrandZ,716,266,0,1,1048,Net Banking,2023-11-09,Offline,Pending
+1088,Customer_313,47,Male,Low,12,A,Bangalore,2661,Home,Shirts,BrandX,699,1029,20,4,312,Credit Card,2023-11-10,Offline,Paid
+1098,Customer_314,55,Female,High,54,C,Hyderabad,2527,Clothing,Mobile,BrandX,613,264,10,2,936,UPI,2023-11-11,Offline,Paid
+1024,Customer_315,21,Female,Medium,24,A,Delhi,2539,Clothing,Furniture,BrandZ,971,963,5,2,1059,Credit Card,2023-11-12,Offline,Pending
+1092,Customer_316,18,Female,Low,29,C,Bangalore,2418,Beauty,Shirts,BrandY,183,793,15,2,1131,UPI,2023-11-13,Online,Pending
+1017,Customer_317,25,Male,High,43,C,Mumbai,2443,Clothing,Mobile,BrandZ,142,485,15,1,528,UPI,2023-11-14,Online,Paid
+1081,Customer_318,46,Male,Medium,25,A,Bangalore,2684,Electronics,Makeup,BrandX,765,1071,10,4,322,Credit Card,2023-11-15,Offline,Pending
+1065,Customer_319,56,Male,High,100,C,Delhi,2557,Beauty,Makeup,BrandZ,938,296,5,2,1149,UPI,2023-11-16,Offline,Paid
+1053,Customer_320,20,Male,Low,60,B,Bangalore,2839,Clothing,Mobile,BrandX,705,271,15,2,213,UPI,2023-11-17,Online,Paid
+1034,Customer_321,49,Male,Low,90,A,Mumbai,2235,Beauty,Furniture,BrandY,909,230,15,3,1124,Credit Card,2023-11-18,Offline,Pending
+1079,Customer_322,27,Female,Low,65,B,Hyderabad,2438,Electronics,Mobile,BrandX,232,834,20,2,215,Cash,2023-11-19,Offline,Paid
+1060,Customer_323,27,Female,Low,84,A,Mumbai,2213,Electronics,Mobile,BrandY,494,811,0,4,607,Credit Card,2023-11-20,Online,Pending
+1040,Customer_324,36,Male,Medium,28,C,Delhi,2084,Clothing,Shirts,BrandY,164,524,15,3,602,UPI,2023-11-21,Offline,Paid
+1099,Customer_325,63,Male,Medium,16,C,Hyderabad,2793,Beauty,Mobile,BrandX,389,212,5,3,1128,Net Banking,2023-11-22,Offline,Pending
+1032,Customer_326,51,Male,High,47,C,Bangalore,2743,Clothing,Mobile,BrandX,475,653,10,3,327,Cash,2023-11-23,Offline,Pending
+1067,Customer_327,50,Male,Low,81,A,Bangalore,2084,Clothing,Makeup,BrandY,868,817,20,1,429,Net Banking,2023-11-24,Online,Paid
+1032,Customer_328,40,Female,High,92,B,Bangalore,2920,Beauty,Shirts,BrandZ,566,598,5,3,493,Cash,2023-11-25,Online,Pending
+1013,Customer_329,45,Male,Medium,58,B,Hyderabad,2488,Clothing,Makeup,BrandX,997,1017,20,2,1190,Net Banking,2023-11-26,Offline,Pending
+1020,Customer_330,49,Male,Low,76,A,Mumbai,2064,Electronics,Makeup,BrandY,312,829,0,1,445,Cash,2023-11-27,Online,Paid
+1047,Customer_331,24,Male,Low,27,A,Hyderabad,2645,Beauty,Furniture,BrandY,247,610,15,1,351,Credit Card,2023-11-28,Online,Pending
+1019,Customer_332,46,Male,Medium,53,B,Hyderabad,2662,Beauty,Furniture,BrandZ,672,608,5,1,1111,Cash,2023-11-29,Online,Paid
+1007,Customer_333,25,Female,Medium,42,B,Delhi,2626,Beauty,Shirts,BrandX,570,613,10,1,833,Cash,2023-11-30,Offline,Pending
+1006,Customer_334,18,Male,Medium,59,B,Hyderabad,2063,Beauty,Shirts,BrandY,248,1061,0,1,524,Cash,2023-12-01,Online,Paid
+1066,Customer_335,20,Male,Medium,47,B,Bangalore,2342,Clothing,Furniture,BrandZ,187,528,0,1,184,UPI,2023-12-02,Online,Paid
+1016,Customer_336,41,Female,Medium,94,A,Mumbai,2938,Clothing,Furniture,BrandY,423,1175,20,1,178,Net Banking,2023-12-03,Online,Paid
+1032,Customer_337,40,Female,Low,34,A,Mumbai,2874,Electronics,Furniture,BrandX,994,513,0,3,924,Credit Card,2023-12-04,Offline,Paid
+1047,Customer_338,25,Female,Medium,37,C,Mumbai,2918,Home,Furniture,BrandZ,495,221,5,4,370,Net Banking,2023-12-05,Online,Pending
+1075,Customer_339,64,Male,Low,6,B,Bangalore,2351,Home,Furniture,BrandY,889,787,20,2,202,Net Banking,2023-12-06,Online,Paid
+1058,Customer_340,54,Male,Low,7,C,Bangalore,2157,Electronics,Makeup,BrandZ,503,486,0,2,940,Credit Card,2023-12-07,Offline,Pending
+1085,Customer_341,20,Female,Medium,96,A,Bangalore,2588,Home,Shirts,BrandX,181,344,10,3,225,UPI,2023-12-08,Online,Paid
+1021,Customer_342,50,Female,Medium,96,A,Bangalore,2490,Electronics,Makeup,BrandZ,740,1161,5,3,643,Cash,2023-12-09,Online,Pending
+1029,Customer_343,45,Female,Low,25,C,Bangalore,2657,Clothing,Makeup,BrandX,385,802,10,1,266,UPI,2023-12-10,Online,Paid
+1037,Customer_344,64,Female,Medium,33,B,Hyderabad,2854,Beauty,Mobile,BrandY,481,156,10,4,429,UPI,2023-12-11,Offline,Pending
+1050,Customer_345,25,Female,Medium,55,B,Bangalore,2462,Beauty,Makeup,BrandX,964,1054,20,1,895,Cash,2023-12-12,Offline,Pending
+1053,Customer_346,51,Female,Medium,58,B,Bangalore,2224,Clothing,Furniture,BrandY,891,1128,15,3,1098,Net Banking,2023-12-13,Online,Paid
+1007,Customer_347,52,Male,High,7,B,Bangalore,2916,Beauty,Furniture,BrandY,369,715,20,1,913,Cash,2023-12-14,Online,Paid
+1026,Customer_348,49,Male,Low,57,C,Bangalore,2312,Beauty,Mobile,BrandX,391,765,5,2,444,Credit Card,2023-12-15,Online,Paid
+1026,Customer_349,41,Male,High,12,C,Mumbai,2614,Home,Mobile,BrandY,552,722,5,2,1167,Cash,2023-12-16,Online,Pending
+1097,Customer_350,31,Female,Medium,16,A,Bangalore,2918,Clothing,Mobile,BrandZ,814,748,20,1,1194,Net Banking,2023-12-17,Online,Pending
+1020,Customer_351,49,Female,High,80,B,Hyderabad,2858,Home,Mobile,BrandY,123,919,15,4,991,UPI,2023-12-18,Online,Pending
+1029,Customer_352,63,Female,Medium,43,B,Hyderabad,2812,Home,Mobile,BrandX,962,391,20,1,646,UPI,2023-12-19,Offline,Pending
+1096,Customer_353,60,Female,High,100,B,Hyderabad,2939,Beauty,Makeup,BrandZ,410,915,5,1,355,Cash,2023-12-20,Online,Paid
+1027,Customer_354,33,Female,Medium,77,C,Delhi,2465,Beauty,Mobile,BrandZ,560,533,15,4,575,Credit Card,2023-12-21,Online,Paid
+1063,Customer_355,21,Female,High,7,B,Mumbai,2087,Clothing,Makeup,BrandY,307,540,5,4,193,Net Banking,2023-12-22,Online,Paid
+1096,Customer_356,54,Male,High,100,C,Bangalore,2882,Beauty,Shirts,BrandY,891,1045,15,4,754,UPI,2023-12-23,Offline,Paid
+1068,Customer_357,38,Male,High,51,B,Delhi,2302,Beauty,Mobile,BrandX,816,837,15,2,603,Cash,2023-12-24,Online,Pending
+1060,Customer_358,31,Female,Low,73,B,Bangalore,2679,Clothing,Mobile,BrandZ,763,196,20,1,744,Credit Card,2023-12-25,Offline,Pending
+1047,Customer_359,48,Male,High,32,A,Delhi,2434,Beauty,Makeup,BrandX,537,768,20,3,656,Credit Card,2023-12-26,Online,Paid
+1018,Customer_360,35,Female,Low,75,B,Delhi,2681,Home,Shirts,BrandY,637,613,20,4,943,UPI,2023-12-27,Online,Pending
+1003,Customer_361,24,Male,Medium,8,B,Hyderabad,2134,Clothing,Makeup,BrandZ,805,272,15,4,170,UPI,2023-12-28,Online,Paid
+1034,Customer_362,27,Female,High,97,A,Hyderabad,2049,Beauty,Makeup,BrandX,435,283,15,1,769,Net Banking,2023-12-29,Online,Pending
+1063,Customer_363,24,Female,Medium,87,C,Delhi,2431,Electronics,Mobile,BrandX,521,990,5,3,563,Credit Card,2023-12-30,Online,Pending
+1048,Customer_364,50,Male,Medium,89,C,Hyderabad,2339,Clothing,Furniture,BrandX,849,998,10,1,486,Net Banking,2023-12-31,Online,Pending
+1016,Customer_365,40,Male,High,72,B,Delhi,2346,Clothing,Furniture,BrandX,420,756,20,1,1059,Credit Card,2024-01-01,Offline,Pending
+1043,Customer_366,38,Female,Low,45,C,Mumbai,2645,Electronics,Makeup,BrandX,596,172,5,4,425,Credit Card,2024-01-02,Online,Pending
+1091,Customer_367,36,Female,High,86,B,Hyderabad,2346,Beauty,Mobile,BrandZ,686,715,5,4,1041,Cash,2024-01-03,Online,Pending
+1029,Customer_368,36,Male,Medium,59,A,Hyderabad,2648,Beauty,Shirts,BrandX,262,915,0,2,162,UPI,2024-01-04,Online,Paid
+1092,Customer_369,53,Male,Medium,4,A,Hyderabad,2244,Clothing,Furniture,BrandZ,910,1114,20,3,1176,Credit Card,2024-01-05,Offline,Pending
+1045,Customer_370,46,Female,High,67,B,Mumbai,2108,Clothing,Shirts,BrandX,640,384,5,3,1127,Net Banking,2024-01-06,Online,Paid
+1005,Customer_371,35,Male,Low,29,A,Delhi,2824,Beauty,Furniture,BrandY,264,1145,0,4,1123,UPI,2024-01-07,Offline,Paid
+1098,Customer_372,19,Female,Low,29,A,Bangalore,2798,Beauty,Mobile,BrandY,948,975,20,4,324,Net Banking,2024-01-08,Online,Paid
+1036,Customer_373,18,Female,Medium,98,B,Hyderabad,2532,Home,Makeup,BrandX,797,365,15,4,390,UPI,2024-01-09,Online,Paid
+1023,Customer_374,64,Female,Medium,98,B,Delhi,2089,Clothing,Shirts,BrandY,665,806,0,3,696,UPI,2024-01-10,Offline,Paid
+1092,Customer_375,22,Female,Low,28,A,Mumbai,2295,Clothing,Shirts,BrandZ,394,1084,15,2,163,Credit Card,2024-01-11,Offline,Paid
+1045,Customer_376,37,Male,High,77,C,Bangalore,2111,Electronics,Makeup,BrandX,141,460,10,3,874,Cash,2024-01-12,Online,Pending
+1052,Customer_377,28,Male,Medium,79,C,Hyderabad,2812,Home,Shirts,BrandZ,384,706,10,4,152,Credit Card,2024-01-13,Offline,Pending
+1094,Customer_378,59,Male,Low,87,B,Mumbai,2588,Beauty,Furniture,BrandX,486,1121,10,4,840,UPI,2024-01-14,Offline,Pending
+1098,Customer_379,19,Male,Medium,44,B,Mumbai,2176,Home,Makeup,BrandY,237,406,10,2,896,Credit Card,2024-01-15,Online,Paid
+1059,Customer_380,20,Male,High,90,C,Bangalore,2342,Beauty,Furniture,BrandZ,286,682,5,1,918,Credit Card,2024-01-16,Online,Paid
+1096,Customer_381,40,Male,Low,4,A,Delhi,2659,Beauty,Furniture,BrandY,815,201,10,1,1021,UPI,2024-01-17,Online,Paid
+1062,Customer_382,29,Male,Medium,90,C,Hyderabad,2100,Home,Mobile,BrandY,530,449,5,3,644,UPI,2024-01-18,Offline,Pending
+1084,Customer_383,37,Female,High,9,C,Hyderabad,2757,Clothing,Furniture,BrandX,653,821,5,1,566,Credit Card,2024-01-19,Online,Pending
+1031,Customer_384,22,Male,Medium,5,C,Delhi,2628,Beauty,Mobile,BrandZ,961,927,20,1,777,Credit Card,2024-01-20,Online,Pending
+1086,Customer_385,54,Male,High,56,C,Delhi,2603,Home,Shirts,BrandY,515,981,5,3,1170,Credit Card,2024-01-21,Offline,Paid
+1032,Customer_386,55,Female,High,96,B,Delhi,2400,Electronics,Shirts,BrandX,899,381,5,4,291,Net Banking,2024-01-22,Offline,Paid
+1066,Customer_387,47,Male,Low,84,B,Bangalore,2027,Home,Mobile,BrandX,525,1124,10,1,195,Credit Card,2024-01-23,Online,Paid
+1017,Customer_388,26,Male,High,50,A,Bangalore,2936,Electronics,Furniture,BrandX,515,177,5,4,993,Net Banking,2024-01-24,Offline,Pending
+1024,Customer_389,51,Female,Medium,75,A,Hyderabad,2961,Beauty,Makeup,BrandY,125,740,15,3,1158,Cash,2024-01-25,Offline,Paid
+1094,Customer_390,61,Male,High,15,A,Bangalore,2536,Home,Makeup,BrandX,470,934,10,4,159,Net Banking,2024-01-26,Offline,Paid
+1053,Customer_391,52,Male,High,32,A,Mumbai,2057,Home,Mobile,BrandZ,484,769,0,4,813,Credit Card,2024-01-27,Online,Paid
+1057,Customer_392,39,Male,Low,28,C,Hyderabad,2497,Electronics,Shirts,BrandZ,155,735,10,3,722,Cash,2024-01-28,Online,Paid
+1066,Customer_393,61,Female,High,22,B,Bangalore,2296,Home,Shirts,BrandY,352,1151,5,4,798,Net Banking,2024-01-29,Online,Pending
+1045,Customer_394,41,Male,High,17,B,Delhi,2133,Home,Makeup,BrandZ,733,333,15,1,1062,Net Banking,2024-01-30,Offline,Pending
+1023,Customer_395,34,Male,Medium,59,A,Mumbai,2330,Beauty,Mobile,BrandX,205,1196,10,1,789,UPI,2024-01-31,Online,Paid
+1031,Customer_396,27,Female,Low,90,A,Delhi,2248,Home,Makeup,BrandY,229,278,15,1,765,Cash,2024-02-01,Online,Paid
+1046,Customer_397,47,Male,Low,71,C,Hyderabad,2549,Clothing,Furniture,BrandX,948,440,0,1,847,UPI,2024-02-02,Offline,Pending
+1085,Customer_398,63,Female,Low,57,C,Delhi,2901,Electronics,Furniture,BrandY,769,650,0,4,1058,Cash,2024-02-03,Offline,Pending
+1022,Customer_399,40,Female,High,26,A,Bangalore,2940,Home,Mobile,BrandY,475,335,20,1,327,Net Banking,2024-02-04,Online,Paid
+1065,Customer_400,49,Male,Low,25,B,Bangalore,2074,Electronics,Mobile,BrandX,842,628,20,4,1018,UPI,2024-02-05,Offline,Pending
+1026,Customer_401,34,Female,High,10,B,Hyderabad,2653,Electronics,Furniture,BrandZ,407,641,10,2,1179,Credit Card,2024-02-06,Online,Pending
+1001,Customer_402,34,Female,High,45,B,Delhi,2833,Electronics,Shirts,BrandZ,190,662,20,4,1002,Net Banking,2024-02-07,Online,Paid
+1089,Customer_403,31,Male,Medium,83,A,Hyderabad,2167,Home,Mobile,BrandY,492,616,15,1,456,Cash,2024-02-08,Online,Pending
+1016,Customer_404,26,Female,Medium,11,B,Delhi,2770,Home,Furniture,BrandX,633,434,20,2,697,Cash,2024-02-09,Offline,Pending
+1032,Customer_405,57,Female,Medium,77,C,Mumbai,2502,Electronics,Furniture,BrandX,901,750,15,3,476,UPI,2024-02-10,Offline,Pending
+1008,Customer_406,19,Male,Medium,53,C,Bangalore,2884,Clothing,Shirts,BrandY,209,338,20,4,544,UPI,2024-02-11,Online,Pending
+1042,Customer_407,62,Male,Medium,72,A,Hyderabad,2354,Electronics,Shirts,BrandZ,660,1138,20,1,449,Cash,2024-02-12,Online,Paid
+1047,Customer_408,42,Male,High,68,C,Mumbai,2224,Clothing,Shirts,BrandX,740,1039,20,1,898,Net Banking,2024-02-13,Online,Pending
+1038,Customer_409,56,Female,High,95,A,Mumbai,2663,Electronics,Shirts,BrandZ,684,537,5,1,434,UPI,2024-02-14,Online,Pending
+1092,Customer_410,26,Male,Low,28,B,Hyderabad,2530,Beauty,Makeup,BrandZ,439,390,5,3,479,Credit Card,2024-02-15,Offline,Paid
+1041,Customer_411,39,Female,High,75,B,Hyderabad,2145,Electronics,Shirts,BrandY,664,566,20,2,199,Cash,2024-02-16,Online,Pending
+1025,Customer_412,60,Female,High,65,B,Mumbai,2959,Electronics,Makeup,BrandY,455,325,15,2,922,Credit Card,2024-02-17,Online,Paid
+1098,Customer_413,63,Female,Medium,49,C,Delhi,2240,Home,Mobile,BrandZ,991,536,10,1,527,Cash,2024-02-18,Offline,Paid
+1049,Customer_414,21,Female,High,47,A,Mumbai,2883,Clothing,Furniture,BrandX,267,1002,0,4,1149,Credit Card,2024-02-19,Online,Pending
+1024,Customer_415,43,Female,Medium,52,B,Hyderabad,2892,Beauty,Makeup,BrandX,656,812,5,1,923,Net Banking,2024-02-20,Online,Pending
+1023,Customer_416,46,Female,Low,88,A,Mumbai,2343,Clothing,Mobile,BrandY,551,601,20,1,1017,Cash,2024-02-21,Online,Pending
+1012,Customer_417,62,Female,Low,54,B,Delhi,2748,Beauty,Mobile,BrandZ,204,426,0,4,152,Net Banking,2024-02-22,Online,Pending
+1059,Customer_418,51,Male,High,60,C,Bangalore,2034,Electronics,Makeup,BrandX,249,362,5,1,897,UPI,2024-02-23,Online,Pending
+1006,Customer_419,40,Male,Low,57,C,Bangalore,2701,Home,Mobile,BrandX,245,190,10,3,424,Cash,2024-02-24,Offline,Paid
+1056,Customer_420,54,Female,High,47,A,Mumbai,2000,Home,Mobile,BrandY,815,443,15,1,364,Net Banking,2024-02-25,Offline,Pending
+1035,Customer_421,28,Female,Low,31,C,Delhi,2995,Clothing,Makeup,BrandZ,973,749,20,3,478,Credit Card,2024-02-26,Offline,Paid
+1044,Customer_422,23,Male,Medium,46,C,Bangalore,2152,Home,Mobile,BrandX,398,690,10,1,404,Net Banking,2024-02-27,Offline,Pending
+1019,Customer_423,35,Female,Medium,26,A,Mumbai,2428,Clothing,Shirts,BrandY,266,600,5,2,275,Cash,2024-02-28,Online,Paid
+1064,Customer_424,38,Male,Medium,5,B,Mumbai,2944,Clothing,Shirts,BrandX,812,939,20,4,916,Net Banking,2024-02-29,Offline,Pending
+1007,Customer_425,59,Male,Medium,84,C,Delhi,2507,Beauty,Furniture,BrandX,745,483,0,2,366,Credit Card,2024-03-01,Offline,Pending
+1015,Customer_426,53,Male,High,52,A,Hyderabad,2125,Clothing,Mobile,BrandX,822,1040,15,1,981,Credit Card,2024-03-02,Offline,Pending
+1013,Customer_427,58,Female,Low,75,C,Mumbai,2490,Beauty,Furniture,BrandY,147,193,5,1,331,Credit Card,2024-03-03,Offline,Pending
+1075,Customer_428,55,Female,High,54,C,Hyderabad,2481,Home,Shirts,BrandZ,737,293,15,3,483,UPI,2024-03-04,Offline,Pending
+1086,Customer_429,51,Male,Medium,33,C,Hyderabad,2344,Clothing,Shirts,BrandY,338,482,20,1,660,Cash,2024-03-05,Offline,Paid
+1014,Customer_430,34,Male,High,50,C,Bangalore,2911,Clothing,Shirts,BrandZ,106,1147,10,1,532,Credit Card,2024-03-06,Offline,Pending
+1091,Customer_431,54,Male,Low,38,A,Hyderabad,2737,Electronics,Mobile,BrandX,563,204,15,1,481,UPI,2024-03-07,Offline,Pending
+1097,Customer_432,42,Male,High,27,A,Delhi,2220,Clothing,Mobile,BrandZ,552,1019,0,2,1049,Credit Card,2024-03-08,Online,Pending
+1065,Customer_433,55,Male,Low,98,A,Bangalore,2914,Clothing,Shirts,BrandX,883,946,5,3,791,Net Banking,2024-03-09,Offline,Paid
+1031,Customer_434,29,Female,High,15,C,Bangalore,2918,Electronics,Furniture,BrandX,996,474,0,2,783,Cash,2024-03-10,Online,Pending
+1086,Customer_435,40,Male,Low,96,C,Bangalore,2722,Electronics,Furniture,BrandY,470,229,15,3,600,Net Banking,2024-03-11,Offline,Paid
+1062,Customer_436,59,Female,Low,61,C,Mumbai,2024,Home,Makeup,BrandX,648,1134,10,2,345,UPI,2024-03-12,Offline,Pending
+1085,Customer_437,39,Male,Medium,21,A,Mumbai,2527,Clothing,Shirts,BrandY,586,707,10,1,607,Net Banking,2024-03-13,Offline,Paid
+1050,Customer_438,38,Female,Low,46,C,Hyderabad,2181,Home,Furniture,BrandZ,310,1014,0,2,979,Net Banking,2024-03-14,Online,Pending
+1024,Customer_439,44,Female,Medium,69,B,Bangalore,2498,Home,Shirts,BrandZ,264,866,20,2,406,Credit Card,2024-03-15,Online,Pending
+1057,Customer_440,48,Female,Medium,6,C,Bangalore,2840,Electronics,Furniture,BrandX,224,621,20,3,158,Net Banking,2024-03-16,Offline,Paid
+1062,Customer_441,23,Female,Medium,38,B,Delhi,2640,Beauty,Makeup,BrandY,436,223,10,3,910,Credit Card,2024-03-17,Online,Pending
+1061,Customer_442,44,Female,High,62,C,Hyderabad,2041,Home,Makeup,BrandX,291,738,0,2,1098,Credit Card,2024-03-18,Offline,Paid
+1021,Customer_443,57,Female,High,86,A,Delhi,2914,Beauty,Shirts,BrandY,829,713,0,3,1036,Cash,2024-03-19,Online,Pending
+1057,Customer_444,51,Male,High,62,C,Hyderabad,2480,Clothing,Furniture,BrandY,313,616,0,3,542,UPI,2024-03-20,Online,Pending
+1057,Customer_445,29,Female,High,82,B,Hyderabad,2929,Electronics,Mobile,BrandY,673,748,15,3,548,UPI,2024-03-21,Online,Paid
+1085,Customer_446,62,Male,Low,78,B,Mumbai,2847,Clothing,Makeup,BrandZ,427,1141,20,4,480,UPI,2024-03-22,Offline,Pending
+1048,Customer_447,24,Female,Low,74,C,Mumbai,2747,Clothing,Shirts,BrandY,480,886,20,3,629,Credit Card,2024-03-23,Online,Paid
+1051,Customer_448,27,Female,High,46,B,Delhi,2871,Electronics,Shirts,BrandZ,772,1143,15,4,283,UPI,2024-03-24,Online,Paid
+1041,Customer_449,62,Male,Low,13,B,Hyderabad,2438,Clothing,Furniture,BrandY,677,397,5,4,1065,Credit Card,2024-03-25,Offline,Pending
+1069,Customer_450,34,Female,Low,95,A,Bangalore,2401,Electronics,Shirts,BrandZ,897,216,15,3,1084,Cash,2024-03-26,Online,Pending
+1014,Customer_451,43,Male,Medium,94,C,Mumbai,2545,Beauty,Makeup,BrandZ,338,722,0,2,504,UPI,2024-03-27,Offline,Pending
+1053,Customer_452,38,Male,Medium,3,C,Bangalore,2344,Clothing,Shirts,BrandZ,631,852,15,3,733,Credit Card,2024-03-28,Offline,Paid
+1059,Customer_453,45,Male,Medium,94,C,Delhi,2892,Electronics,Shirts,BrandX,799,619,0,1,774,UPI,2024-03-29,Online,Paid
+1096,Customer_454,63,Male,Medium,6,B,Mumbai,2044,Home,Mobile,BrandY,181,642,10,2,439,UPI,2024-03-30,Offline,Pending
+1007,Customer_455,19,Female,Low,93,C,Mumbai,2645,Clothing,Mobile,BrandX,462,812,0,4,974,Cash,2024-03-31,Online,Paid
+1052,Customer_456,60,Female,High,8,C,Hyderabad,2020,Beauty,Makeup,BrandY,604,435,20,4,778,Net Banking,2024-04-01,Online,Paid
+1059,Customer_457,18,Male,Low,44,A,Delhi,2633,Electronics,Furniture,BrandY,301,461,15,2,1168,UPI,2024-04-02,Offline,Paid
+1004,Customer_458,53,Female,Low,33,A,Hyderabad,2069,Clothing,Mobile,BrandX,603,458,0,2,781,Cash,2024-04-03,Online,Paid
+1067,Customer_459,43,Female,Low,81,A,Mumbai,2863,Clothing,Furniture,BrandZ,743,924,5,3,476,UPI,2024-04-04,Online,Pending
+1005,Customer_460,46,Male,Medium,75,B,Delhi,2872,Clothing,Makeup,BrandY,136,1114,10,4,359,UPI,2024-04-05,Offline,Pending
+1095,Customer_461,38,Female,Medium,77,C,Mumbai,2047,Beauty,Mobile,BrandZ,743,605,5,1,785,UPI,2024-04-06,Offline,Pending
+1093,Customer_462,28,Male,Medium,50,A,Delhi,2490,Electronics,Furniture,BrandX,688,281,5,3,1017,UPI,2024-04-07,Online,Paid
+1046,Customer_463,57,Male,High,11,A,Mumbai,2550,Home,Mobile,BrandZ,700,1079,5,2,577,Net Banking,2024-04-08,Offline,Paid
+1098,Customer_464,28,Female,Low,95,A,Bangalore,2286,Home,Makeup,BrandY,501,1114,10,4,542,Net Banking,2024-04-09,Offline,Paid
+1054,Customer_465,53,Female,High,28,C,Bangalore,2009,Home,Makeup,BrandY,864,1078,10,2,975,UPI,2024-04-10,Offline,Paid
+1039,Customer_466,56,Female,Medium,70,C,Hyderabad,2541,Electronics,Mobile,BrandY,955,270,10,2,1065,UPI,2024-04-11,Offline,Pending
+1051,Customer_467,57,Male,High,41,C,Bangalore,2755,Home,Furniture,BrandX,805,783,10,2,497,Cash,2024-04-12,Online,Paid
+1015,Customer_468,52,Male,Low,16,B,Mumbai,2273,Beauty,Shirts,BrandY,275,1046,5,3,199,Cash,2024-04-13,Online,Paid
+1012,Customer_469,51,Female,Low,68,B,Mumbai,2955,Electronics,Shirts,BrandX,644,921,20,1,1065,Credit Card,2024-04-14,Offline,Pending
+1029,Customer_470,64,Female,Medium,99,A,Bangalore,2599,Clothing,Mobile,BrandZ,669,715,20,1,1117,Net Banking,2024-04-15,Online,Pending
+1018,Customer_471,41,Female,Medium,48,C,Hyderabad,2755,Beauty,Furniture,BrandY,566,661,10,4,949,UPI,2024-04-16,Offline,Pending
+1016,Customer_472,39,Female,High,56,A,Bangalore,2380,Clothing,Shirts,BrandY,300,438,15,2,1166,Net Banking,2024-04-17,Offline,Paid
+1062,Customer_473,22,Male,Medium,64,C,Delhi,2328,Home,Makeup,BrandY,639,349,0,1,798,Cash,2024-04-18,Online,Paid
+1018,Customer_474,50,Female,Medium,59,C,Delhi,2478,Beauty,Furniture,BrandZ,646,677,15,2,450,Net Banking,2024-04-19,Online,Paid
+1091,Customer_475,53,Male,Low,90,C,Delhi,2014,Electronics,Shirts,BrandY,736,1066,15,4,315,Net Banking,2024-04-20,Online,Paid
+1057,Customer_476,64,Male,Medium,62,B,Bangalore,2515,Beauty,Furniture,BrandX,493,948,15,2,465,UPI,2024-04-21,Online,Paid
+1054,Customer_477,37,Female,Medium,76,B,Bangalore,2190,Clothing,Mobile,BrandZ,932,161,20,1,150,UPI,2024-04-22,Offline,Paid
+1089,Customer_478,36,Female,Low,11,C,Bangalore,2167,Electronics,Furniture,BrandZ,141,982,0,2,1169,Cash,2024-04-23,Offline,Pending
+1089,Customer_479,52,Female,Low,89,A,Delhi,2520,Beauty,Shirts,BrandZ,696,990,15,1,212,UPI,2024-04-24,Online,Paid
+1061,Customer_480,60,Male,High,18,C,Hyderabad,2620,Beauty,Mobile,BrandZ,492,792,10,4,632,Cash,2024-04-25,Offline,Pending
+1022,Customer_481,34,Female,Medium,19,C,Mumbai,2136,Beauty,Furniture,BrandZ,799,255,20,2,371,Cash,2024-04-26,Online,Pending
+1008,Customer_482,62,Female,Low,87,A,Bangalore,2153,Beauty,Makeup,BrandX,722,840,10,1,301,Credit Card,2024-04-27,Online,Pending
+1011,Customer_483,60,Male,High,55,C,Hyderabad,2387,Electronics,Shirts,BrandZ,882,677,10,4,793,Credit Card,2024-04-28,Online,Paid
+1000,Customer_484,51,Female,High,82,A,Mumbai,2208,Clothing,Mobile,BrandY,540,995,15,2,775,Credit Card,2024-04-29,Offline,Paid
+1057,Customer_485,26,Male,Medium,26,B,Mumbai,2271,Beauty,Furniture,BrandZ,936,1042,10,4,366,Net Banking,2024-04-30,Offline,Pending
+1000,Customer_486,43,Female,Medium,6,B,Mumbai,2142,Electronics,Makeup,BrandZ,716,536,0,1,345,Credit Card,2024-05-01,Online,Paid
+1033,Customer_487,19,Male,High,4,A,Hyderabad,2610,Clothing,Shirts,BrandZ,605,630,10,2,1144,UPI,2024-05-02,Online,Paid
+1095,Customer_488,26,Female,Low,29,B,Hyderabad,2888,Beauty,Makeup,BrandZ,419,557,15,2,1164,UPI,2024-05-03,Online,Pending
+1047,Customer_489,26,Female,High,59,B,Delhi,2819,Clothing,Furniture,BrandZ,652,1047,10,2,796,Credit Card,2024-05-04,Online,Paid
+1088,Customer_490,57,Male,Medium,98,A,Hyderabad,2068,Clothing,Furniture,BrandX,314,860,20,4,857,Net Banking,2024-05-05,Offline,Paid
+1000,Customer_491,34,Male,Low,17,B,Hyderabad,2246,Electronics,Mobile,BrandX,170,788,20,4,871,Cash,2024-05-06,Offline,Paid
+1015,Customer_492,18,Female,Low,43,C,Hyderabad,2260,Clothing,Makeup,BrandZ,667,1194,20,1,789,Net Banking,2024-05-07,Online,Paid
+1060,Customer_493,42,Male,High,80,C,Mumbai,2787,Electronics,Mobile,BrandX,335,964,5,3,255,Net Banking,2024-05-08,Online,Pending
+1063,Customer_494,60,Male,Medium,66,A,Bangalore,2078,Beauty,Shirts,BrandY,380,1067,20,2,314,Cash,2024-05-09,Offline,Pending
+1062,Customer_495,57,Male,High,34,B,Delhi,2657,Clothing,Mobile,BrandZ,716,352,20,2,364,Cash,2024-05-10,Online,Paid
+1068,Customer_496,59,Male,High,8,C,Bangalore,2622,Clothing,Shirts,BrandY,986,566,5,1,239,Cash,2024-05-11,Offline,Paid
+1021,Customer_497,42,Female,High,13,C,Bangalore,2769,Home,Furniture,BrandY,261,565,20,2,1023,UPI,2024-05-12,Offline,Paid
+1092,Customer_498,56,Female,Low,8,B,Hyderabad,2604,Beauty,Furniture,BrandZ,290,234,15,4,757,Cash,2024-05-13,Online,Pending
+1066,Customer_499,52,Male,Low,94,B,Delhi,2524,Beauty,Makeup,BrandY,108,316,20,4,498,Cash,2024-05-14,Offline,Paid
+1075,Customer_500,20,Male,Medium,96,C,Bangalore,2771,Home,Shirts,BrandY,159,533,20,2,1043,Net Banking,2024-05-15,Offline,Paid
+1025,Customer_501,54,Male,Medium,100,C,Bangalore,2937,Home,Furniture,BrandY,992,617,5,2,395,Net Banking,2024-05-16,Offline,Pending
+1015,Customer_502,61,Male,High,94,A,Delhi,2620,Electronics,Makeup,BrandZ,916,959,15,4,421,Credit Card,2024-05-17,Offline,Paid
+1050,Customer_503,61,Female,High,65,A,Hyderabad,2329,Electronics,Makeup,BrandZ,324,1146,10,2,552,Net Banking,2024-05-18,Online,Pending
+1085,Customer_504,47,Female,High,43,C,Bangalore,2188,Clothing,Mobile,BrandY,918,622,0,4,1189,Cash,2024-05-19,Offline,Paid
+1056,Customer_505,55,Male,Medium,39,A,Mumbai,2094,Clothing,Makeup,BrandZ,799,1142,15,3,1110,UPI,2024-05-20,Offline,Pending
+1028,Customer_506,51,Male,Low,81,C,Bangalore,2616,Clothing,Furniture,BrandZ,681,424,10,3,1047,Net Banking,2024-05-21,Offline,Paid
+1077,Customer_507,29,Male,Low,59,C,Mumbai,2007,Clothing,Mobile,BrandY,904,1193,15,2,433,Net Banking,2024-05-22,Online,Paid
+1091,Customer_508,36,Female,High,84,A,Hyderabad,2066,Electronics,Shirts,BrandZ,386,639,10,2,666,Cash,2024-05-23,Online,Pending
+1068,Customer_509,54,Male,High,88,A,Bangalore,2495,Beauty,Shirts,BrandX,268,475,10,2,767,Net Banking,2024-05-24,Online,Pending
+1046,Customer_510,61,Female,High,86,B,Delhi,2190,Clothing,Furniture,BrandZ,161,678,15,4,761,Net Banking,2024-05-25,Offline,Pending
+1093,Customer_511,34,Male,High,93,B,Delhi,2365,Beauty,Furniture,BrandX,448,1041,5,3,899,Cash,2024-05-26,Online,Pending
+1061,Customer_512,27,Female,Medium,86,B,Bangalore,2767,Clothing,Mobile,BrandY,541,238,15,3,549,Net Banking,2024-05-27,Online,Pending
+1068,Customer_513,64,Male,Low,44,C,Hyderabad,2520,Home,Mobile,BrandZ,113,635,15,1,235,UPI,2024-05-28,Online,Paid
+1075,Customer_514,29,Female,High,9,A,Hyderabad,2989,Clothing,Furniture,BrandY,263,857,10,1,469,Credit Card,2024-05-29,Offline,Pending
+1015,Customer_515,33,Male,Medium,37,C,Delhi,2116,Clothing,Furniture,BrandY,519,499,0,2,485,Net Banking,2024-05-30,Online,Pending
+1089,Customer_516,41,Male,High,74,A,Bangalore,2266,Clothing,Shirts,BrandY,856,536,10,4,200,UPI,2024-05-31,Online,Pending
+1089,Customer_517,36,Male,High,36,C,Hyderabad,2610,Electronics,Shirts,BrandY,946,236,20,2,323,Net Banking,2024-06-01,Online,Pending
+1047,Customer_518,25,Female,Low,92,B,Delhi,2484,Home,Shirts,BrandY,619,456,15,3,650,Credit Card,2024-06-02,Offline,Paid
+1084,Customer_519,48,Male,High,28,B,Mumbai,2508,Clothing,Furniture,BrandZ,765,589,15,2,225,Cash,2024-06-03,Offline,Paid
+1038,Customer_520,38,Female,Low,42,B,Bangalore,2297,Clothing,Makeup,BrandX,647,889,5,2,465,Credit Card,2024-06-04,Online,Paid
+1099,Customer_521,34,Female,Low,43,C,Mumbai,2908,Beauty,Furniture,BrandZ,659,413,10,3,846,Net Banking,2024-06-05,Online,Paid
+1032,Customer_522,40,Male,Low,85,A,Mumbai,2163,Home,Furniture,BrandZ,696,1126,5,3,1159,Credit Card,2024-06-06,Online,Paid
+1093,Customer_523,54,Male,Medium,88,A,Hyderabad,2375,Clothing,Shirts,BrandZ,127,884,15,3,881,Credit Card,2024-06-07,Offline,Pending
+1022,Customer_524,33,Male,Medium,42,B,Hyderabad,2652,Beauty,Furniture,BrandZ,807,570,10,3,1118,Cash,2024-06-08,Offline,Paid
+1009,Customer_525,23,Female,Low,66,B,Hyderabad,2267,Beauty,Mobile,BrandX,545,642,10,1,1003,Net Banking,2024-06-09,Online,Paid
+1068,Customer_526,25,Male,High,55,B,Bangalore,2548,Electronics,Furniture,BrandZ,307,782,20,4,815,Credit Card,2024-06-10,Offline,Pending
+1099,Customer_527,42,Female,Low,72,B,Mumbai,2073,Beauty,Furniture,BrandY,569,1142,20,4,801,Credit Card,2024-06-11,Online,Pending
+1033,Customer_528,35,Female,High,48,A,Bangalore,2507,Clothing,Furniture,BrandZ,815,560,0,3,195,Cash,2024-06-12,Offline,Paid
+1051,Customer_529,42,Male,Low,91,C,Hyderabad,2072,Electronics,Furniture,BrandZ,918,322,20,4,298,UPI,2024-06-13,Online,Paid
+1094,Customer_530,29,Male,High,22,C,Mumbai,2307,Electronics,Makeup,BrandX,203,153,10,4,1059,Net Banking,2024-06-14,Offline,Pending
+1009,Customer_531,32,Male,Medium,27,C,Bangalore,2198,Clothing,Furniture,BrandX,841,1003,20,4,605,UPI,2024-06-15,Online,Paid
+1018,Customer_532,43,Male,High,93,C,Bangalore,2129,Home,Mobile,BrandY,525,1135,0,4,1026,UPI,2024-06-16,Offline,Pending
+1057,Customer_533,58,Male,Low,67,B,Delhi,2757,Beauty,Mobile,BrandZ,200,732,15,3,1115,Cash,2024-06-17,Online,Pending
+1095,Customer_534,62,Male,Medium,13,B,Bangalore,2823,Electronics,Furniture,BrandZ,640,530,20,2,1018,Cash,2024-06-18,Online,Paid
+1000,Customer_535,43,Female,High,45,B,Hyderabad,2571,Home,Shirts,BrandZ,738,1184,10,2,1078,Net Banking,2024-06-19,Online,Paid
+1068,Customer_536,64,Female,High,10,C,Bangalore,2790,Clothing,Makeup,BrandY,949,493,15,2,1173,UPI,2024-06-20,Online,Paid
+1003,Customer_537,49,Female,High,100,B,Mumbai,2614,Beauty,Furniture,BrandX,621,315,10,1,1150,Credit Card,2024-06-21,Offline,Pending
+1015,Customer_538,27,Male,High,9,B,Bangalore,2807,Beauty,Furniture,BrandY,205,849,15,4,923,UPI,2024-06-22,Online,Pending
+1023,Customer_539,33,Female,High,54,A,Delhi,2831,Electronics,Furniture,BrandZ,778,491,10,3,393,Cash,2024-06-23,Offline,Paid
+1079,Customer_540,24,Female,Medium,27,A,Mumbai,2486,Beauty,Shirts,BrandX,868,1192,20,3,623,Credit Card,2024-06-24,Offline,Paid
+1001,Customer_541,34,Female,Medium,34,B,Mumbai,2852,Beauty,Shirts,BrandX,906,1129,20,1,531,Credit Card,2024-06-25,Online,Paid
+1091,Customer_542,40,Female,Medium,1,A,Delhi,2150,Beauty,Shirts,BrandY,376,694,0,3,638,Cash,2024-06-26,Online,Pending
+1031,Customer_543,43,Female,Medium,32,A,Hyderabad,2668,Beauty,Makeup,BrandX,164,1183,15,2,546,Credit Card,2024-06-27,Online,Pending
+1090,Customer_544,38,Male,Low,89,B,Mumbai,2205,Clothing,Mobile,BrandX,882,341,0,1,445,UPI,2024-06-28,Online,Pending
+1083,Customer_545,39,Male,Medium,93,B,Hyderabad,2985,Home,Makeup,BrandZ,999,469,5,3,256,Cash,2024-06-29,Offline,Paid
+1023,Customer_546,24,Female,High,71,B,Mumbai,2178,Clothing,Shirts,BrandZ,287,729,20,1,1009,Net Banking,2024-06-30,Offline,Pending
+1011,Customer_547,31,Female,High,67,B,Mumbai,2196,Clothing,Mobile,BrandX,416,624,15,1,1103,Cash,2024-07-01,Offline,Pending
+1049,Customer_548,32,Female,Medium,84,C,Hyderabad,2734,Electronics,Mobile,BrandX,237,786,0,3,679,Net Banking,2024-07-02,Offline,Paid
+1034,Customer_549,24,Male,High,20,C,Mumbai,2088,Beauty,Shirts,BrandY,442,576,0,2,1083,Net Banking,2024-07-03,Online,Pending
+1032,Customer_550,26,Male,Medium,94,B,Hyderabad,2798,Clothing,Shirts,BrandY,204,246,5,3,437,Cash,2024-07-04,Offline,Paid
+1032,Customer_551,25,Female,High,35,A,Delhi,2433,Beauty,Makeup,BrandX,645,645,0,4,855,Cash,2024-07-05,Online,Pending
+1060,Customer_552,40,Male,Low,99,B,Hyderabad,2787,Clothing,Shirts,BrandZ,479,810,10,4,364,Net Banking,2024-07-06,Online,Paid
+1050,Customer_553,46,Male,Low,91,B,Delhi,2747,Clothing,Mobile,BrandX,209,158,20,3,881,Net Banking,2024-07-07,Offline,Paid
+1042,Customer_554,35,Female,Medium,90,A,Mumbai,2182,Electronics,Furniture,BrandX,644,606,0,2,493,Credit Card,2024-07-08,Offline,Pending
+1011,Customer_555,48,Male,Medium,78,C,Hyderabad,2208,Home,Shirts,BrandZ,453,422,0,4,343,Cash,2024-07-09,Offline,Paid
+1066,Customer_556,47,Male,Medium,17,B,Mumbai,2492,Home,Shirts,BrandZ,842,1089,5,4,307,Cash,2024-07-10,Offline,Pending
+1064,Customer_557,56,Female,High,18,B,Hyderabad,2129,Clothing,Makeup,BrandY,416,1181,10,3,614,Credit Card,2024-07-11,Offline,Paid
+1032,Customer_558,52,Male,Medium,45,C,Delhi,2664,Electronics,Makeup,BrandY,365,357,0,3,253,Cash,2024-07-12,Offline,Paid
+1039,Customer_559,35,Male,Low,93,C,Delhi,2012,Beauty,Shirts,BrandY,793,353,20,3,183,Credit Card,2024-07-13,Online,Paid
+1073,Customer_560,59,Female,High,84,A,Hyderabad,2633,Beauty,Mobile,BrandY,951,667,20,1,788,Credit Card,2024-07-14,Online,Pending
+1042,Customer_561,56,Male,Medium,53,C,Delhi,2870,Clothing,Mobile,BrandZ,164,666,0,1,474,Cash,2024-07-15,Online,Paid
+1043,Customer_562,34,Male,High,91,C,Mumbai,2731,Home,Furniture,BrandX,432,592,10,1,840,UPI,2024-07-16,Offline,Paid
+1028,Customer_563,31,Female,High,82,C,Mumbai,2105,Electronics,Shirts,BrandY,612,838,20,3,741,Net Banking,2024-07-17,Online,Pending
+1012,Customer_564,48,Female,Medium,68,A,Bangalore,2374,Home,Makeup,BrandY,232,999,20,2,290,Cash,2024-07-18,Online,Paid
+1011,Customer_565,41,Female,High,65,C,Delhi,2581,Beauty,Mobile,BrandZ,691,982,10,4,623,UPI,2024-07-19,Online,Paid
+1094,Customer_566,52,Male,Low,1,C,Mumbai,2706,Home,Furniture,BrandZ,882,488,10,1,1033,Credit Card,2024-07-20,Online,Paid
+1045,Customer_567,61,Female,Low,58,A,Hyderabad,2697,Beauty,Shirts,BrandX,852,536,0,2,212,UPI,2024-07-21,Online,Paid
+1001,Customer_568,62,Male,High,26,C,Delhi,2098,Electronics,Mobile,BrandX,639,1198,15,3,453,Cash,2024-07-22,Online,Pending
+1034,Customer_569,51,Female,Medium,20,C,Mumbai,2593,Electronics,Shirts,BrandZ,834,655,5,1,545,Cash,2024-07-23,Offline,Paid
+1086,Customer_570,20,Male,High,87,A,Delhi,2586,Clothing,Shirts,BrandY,634,829,15,3,483,UPI,2024-07-24,Offline,Paid
+1080,Customer_571,54,Female,Low,10,B,Hyderabad,2885,Clothing,Mobile,BrandY,595,839,15,2,935,Cash,2024-07-25,Offline,Pending
+1089,Customer_572,60,Female,High,59,A,Mumbai,2851,Home,Mobile,BrandY,720,1034,20,1,560,Net Banking,2024-07-26,Online,Paid
+1007,Customer_573,57,Female,High,75,C,Bangalore,2191,Electronics,Mobile,BrandX,718,772,10,1,433,UPI,2024-07-27,Offline,Paid
+1092,Customer_574,43,Female,Low,41,C,Bangalore,2324,Electronics,Shirts,BrandY,756,1042,20,1,615,Credit Card,2024-07-28,Offline,Pending
+1025,Customer_575,40,Male,High,5,C,Delhi,2978,Clothing,Shirts,BrandY,468,1102,5,1,229,UPI,2024-07-29,Online,Pending
+1073,Customer_576,61,Female,High,65,A,Hyderabad,2725,Beauty,Furniture,BrandZ,965,933,0,2,933,UPI,2024-07-30,Offline,Pending
+1089,Customer_577,56,Female,Medium,17,C,Mumbai,2826,Home,Makeup,BrandY,750,644,5,1,882,UPI,2024-07-31,Online,Pending
+1033,Customer_578,32,Male,Medium,22,C,Hyderabad,2955,Home,Shirts,BrandZ,895,896,20,4,226,UPI,2024-08-01,Offline,Paid
+1006,Customer_579,21,Female,Low,98,A,Mumbai,2466,Clothing,Makeup,BrandY,909,586,20,4,658,Credit Card,2024-08-02,Online,Pending
+1067,Customer_580,46,Male,Low,41,B,Delhi,2893,Electronics,Mobile,BrandX,198,494,20,3,1182,Credit Card,2024-08-03,Online,Paid
+1057,Customer_581,39,Female,Low,93,B,Mumbai,2366,Clothing,Shirts,BrandY,416,699,20,1,611,Credit Card,2024-08-04,Offline,Pending
+1074,Customer_582,42,Female,Medium,68,C,Hyderabad,2317,Clothing,Furniture,BrandY,222,969,15,4,394,UPI,2024-08-05,Online,Paid
+1028,Customer_583,30,Female,Low,69,A,Hyderabad,2143,Clothing,Furniture,BrandZ,419,690,0,4,271,Net Banking,2024-08-06,Offline,Pending
+1035,Customer_584,35,Male,Low,11,C,Delhi,2383,Clothing,Makeup,BrandZ,898,293,15,4,334,Net Banking,2024-08-07,Online,Pending
+1088,Customer_585,50,Female,Low,56,A,Hyderabad,2215,Beauty,Mobile,BrandZ,692,737,20,2,181,Credit Card,2024-08-08,Offline,Paid
+1020,Customer_586,33,Female,Medium,51,A,Mumbai,2360,Beauty,Makeup,BrandY,594,806,10,1,1147,Net Banking,2024-08-09,Offline,Pending
+1035,Customer_587,62,Female,High,21,B,Delhi,2323,Electronics,Mobile,BrandY,556,494,15,2,911,Net Banking,2024-08-10,Online,Pending
+1009,Customer_588,59,Male,Low,99,B,Mumbai,2014,Clothing,Furniture,BrandX,621,845,20,2,718,Net Banking,2024-08-11,Offline,Pending
+1072,Customer_589,61,Male,High,76,A,Hyderabad,2216,Beauty,Makeup,BrandY,619,417,20,4,459,Net Banking,2024-08-12,Offline,Paid
+1023,Customer_590,19,Female,Low,26,C,Delhi,2491,Electronics,Furniture,BrandX,816,318,0,4,979,Net Banking,2024-08-13,Offline,Pending
+1063,Customer_591,52,Male,High,19,B,Mumbai,2950,Clothing,Furniture,BrandZ,414,182,5,3,1141,Cash,2024-08-14,Online,Pending
+1098,Customer_592,59,Female,Medium,60,C,Hyderabad,2546,Home,Mobile,BrandZ,808,526,15,1,940,Credit Card,2024-08-15,Online,Paid
+1048,Customer_593,51,Female,Medium,71,B,Hyderabad,2182,Beauty,Makeup,BrandZ,809,542,15,1,613,UPI,2024-08-16,Offline,Paid
+1098,Customer_594,47,Female,Low,47,B,Bangalore,2269,Electronics,Makeup,BrandX,641,638,15,4,827,Net Banking,2024-08-17,Offline,Pending
+1035,Customer_595,30,Female,High,71,C,Hyderabad,2944,Home,Furniture,BrandY,578,871,20,4,1128,Cash,2024-08-18,Online,Paid
+1081,Customer_596,30,Female,Medium,26,B,Mumbai,2466,Clothing,Furniture,BrandZ,119,1095,0,1,819,UPI,2024-08-19,Online,Paid
+1095,Customer_597,35,Female,Low,40,B,Delhi,2869,Clothing,Mobile,BrandY,659,188,20,3,847,Cash,2024-08-20,Offline,Paid
+1023,Customer_598,49,Female,Low,5,C,Bangalore,2611,Clothing,Shirts,BrandY,229,1190,20,4,1143,Net Banking,2024-08-21,Online,Pending
+1022,Customer_599,49,Male,Medium,21,B,Hyderabad,2518,Beauty,Shirts,BrandZ,392,375,10,3,227,Net Banking,2024-08-22,Online,Pending
+1061,Customer_600,52,Male,Medium,78,B,Hyderabad,2541,Electronics,Furniture,BrandX,996,216,0,2,683,Net Banking,2024-08-23,Offline,Paid
+1095,Customer_601,56,Male,Low,4,B,Hyderabad,2466,Home,Shirts,BrandY,231,984,15,4,257,Net Banking,2024-08-24,Online,Pending
+1036,Customer_602,63,Male,High,23,C,Mumbai,2304,Electronics,Shirts,BrandZ,455,1196,5,2,913,UPI,2024-08-25,Online,Paid
+1011,Customer_603,46,Male,High,84,A,Bangalore,2984,Beauty,Shirts,BrandY,153,1148,15,4,164,UPI,2024-08-26,Online,Pending
+1054,Customer_604,46,Male,High,15,C,Mumbai,2143,Electronics,Shirts,BrandY,989,386,20,2,519,Cash,2024-08-27,Offline,Paid
+1012,Customer_605,61,Male,Low,93,A,Bangalore,2110,Beauty,Furniture,BrandY,892,1106,0,4,354,Credit Card,2024-08-28,Online,Pending
+1022,Customer_606,33,Female,Medium,8,B,Delhi,2231,Clothing,Shirts,BrandY,486,1068,0,3,1014,Net Banking,2024-08-29,Offline,Paid
+1088,Customer_607,61,Female,Low,41,A,Mumbai,2690,Home,Shirts,BrandY,364,622,0,3,590,Cash,2024-08-30,Online,Pending
+1098,Customer_608,64,Female,Medium,19,C,Mumbai,2583,Clothing,Mobile,BrandX,314,702,10,3,1008,Cash,2024-08-31,Online,Pending
+1029,Customer_609,27,Female,High,46,C,Delhi,2721,Electronics,Furniture,BrandX,559,844,15,2,376,Cash,2024-09-01,Offline,Paid
+1016,Customer_610,47,Male,High,28,B,Bangalore,2731,Clothing,Makeup,BrandZ,557,466,10,3,677,Net Banking,2024-09-02,Offline,Pending
+1061,Customer_611,42,Male,Medium,91,A,Hyderabad,2591,Home,Makeup,BrandX,901,747,5,2,503,Net Banking,2024-09-03,Offline,Pending
+1083,Customer_612,56,Female,Medium,68,B,Delhi,2499,Clothing,Mobile,BrandX,142,917,20,4,772,Cash,2024-09-04,Offline,Pending
+1088,Customer_613,37,Female,Low,15,B,Hyderabad,2594,Home,Mobile,BrandX,685,1035,10,2,1174,Net Banking,2024-09-05,Online,Pending
+1085,Customer_614,22,Male,High,99,C,Hyderabad,2553,Home,Furniture,BrandY,961,710,10,4,1076,Cash,2024-09-06,Offline,Pending
+1012,Customer_615,18,Female,Low,37,A,Delhi,2272,Clothing,Makeup,BrandY,377,407,20,1,310,UPI,2024-09-07,Offline,Pending
+1058,Customer_616,47,Female,Low,1,A,Bangalore,2702,Beauty,Shirts,BrandZ,937,906,0,1,1020,Net Banking,2024-09-08,Offline,Pending
+1018,Customer_617,20,Female,Low,67,A,Hyderabad,2172,Electronics,Mobile,BrandZ,853,272,20,1,593,UPI,2024-09-09,Online,Pending
+1048,Customer_618,62,Female,High,24,A,Delhi,2972,Beauty,Makeup,BrandZ,229,491,15,2,612,Credit Card,2024-09-10,Online,Paid
+1099,Customer_619,31,Male,Low,27,B,Mumbai,2006,Beauty,Furniture,BrandY,449,409,20,1,622,Net Banking,2024-09-11,Offline,Pending
+1011,Customer_620,47,Female,Low,40,B,Mumbai,2154,Clothing,Shirts,BrandX,805,244,0,1,706,Credit Card,2024-09-12,Offline,Paid
+1060,Customer_621,21,Female,Low,63,C,Mumbai,2521,Electronics,Furniture,BrandX,643,190,20,1,229,Cash,2024-09-13,Offline,Pending
+1018,Customer_622,35,Male,Low,61,B,Delhi,2545,Electronics,Mobile,BrandY,205,403,10,4,389,Net Banking,2024-09-14,Offline,Paid
+1075,Customer_623,54,Male,Low,36,B,Mumbai,2547,Beauty,Makeup,BrandZ,815,156,5,3,706,Net Banking,2024-09-15,Online,Pending
+1008,Customer_624,42,Female,Low,98,C,Hyderabad,2920,Clothing,Makeup,BrandZ,100,877,10,2,739,Net Banking,2024-09-16,Offline,Paid
+1070,Customer_625,18,Male,High,93,C,Mumbai,2517,Electronics,Makeup,BrandZ,856,218,5,1,418,Credit Card,2024-09-17,Online,Paid
+1027,Customer_626,63,Female,Low,24,C,Mumbai,2919,Beauty,Makeup,BrandY,683,691,20,4,484,Credit Card,2024-09-18,Offline,Pending
+1077,Customer_627,32,Female,Medium,24,B,Hyderabad,2913,Electronics,Shirts,BrandZ,531,238,15,3,461,Cash,2024-09-19,Offline,Paid
+1094,Customer_628,26,Male,Low,4,B,Mumbai,2214,Clothing,Shirts,BrandZ,405,362,20,3,843,UPI,2024-09-20,Online,Pending
+1051,Customer_629,32,Female,Low,67,C,Hyderabad,2133,Clothing,Furniture,BrandY,626,983,0,3,183,UPI,2024-09-21,Offline,Pending
+1082,Customer_630,41,Female,High,34,C,Mumbai,2284,Clothing,Shirts,BrandX,152,415,20,4,535,Credit Card,2024-09-22,Offline,Paid
+1015,Customer_631,21,Female,High,57,C,Hyderabad,2125,Electronics,Mobile,BrandY,619,1061,5,1,398,Net Banking,2024-09-23,Offline,Pending
+1068,Customer_632,29,Female,Medium,49,B,Mumbai,2920,Home,Mobile,BrandY,429,442,10,3,943,UPI,2024-09-24,Offline,Paid
+1098,Customer_633,54,Male,Medium,87,B,Hyderabad,2438,Electronics,Makeup,BrandY,657,482,15,4,1001,UPI,2024-09-25,Online,Paid
+1011,Customer_634,54,Male,High,53,A,Delhi,2848,Home,Mobile,BrandY,424,1154,20,4,1023,Credit Card,2024-09-26,Offline,Pending
+1024,Customer_635,60,Female,High,23,B,Hyderabad,2685,Clothing,Furniture,BrandX,213,196,20,2,525,Cash,2024-09-27,Offline,Pending
+1051,Customer_636,23,Male,Low,69,B,Mumbai,2151,Beauty,Shirts,BrandZ,246,771,10,4,873,Credit Card,2024-09-28,Online,Pending
+1084,Customer_637,56,Female,High,95,B,Mumbai,2330,Home,Shirts,BrandY,265,576,15,3,351,Credit Card,2024-09-29,Offline,Pending
+1099,Customer_638,63,Female,Medium,53,C,Bangalore,2537,Clothing,Shirts,BrandX,478,359,20,3,594,Net Banking,2024-09-30,Online,Pending
+1052,Customer_639,41,Female,Low,62,B,Hyderabad,2382,Clothing,Mobile,BrandZ,238,1037,20,4,446,Credit Card,2024-10-01,Offline,Paid
+1022,Customer_640,28,Female,Medium,41,C,Delhi,2114,Home,Shirts,BrandZ,728,303,5,3,642,Net Banking,2024-10-02,Offline,Paid
+1015,Customer_641,30,Female,Low,57,A,Hyderabad,2893,Beauty,Makeup,BrandZ,398,564,5,4,487,Cash,2024-10-03,Offline,Pending
+1056,Customer_642,51,Male,High,60,A,Hyderabad,2481,Clothing,Makeup,BrandY,375,918,0,3,1072,Net Banking,2024-10-04,Online,Pending
+1038,Customer_643,42,Female,Medium,54,C,Delhi,2283,Home,Makeup,BrandY,888,1132,10,2,941,Cash,2024-10-05,Online,Pending
+1052,Customer_644,24,Male,Low,70,C,Hyderabad,2898,Beauty,Mobile,BrandZ,949,728,15,1,1111,Cash,2024-10-06,Offline,Paid
+1041,Customer_645,21,Male,Low,57,C,Delhi,2074,Beauty,Shirts,BrandZ,924,889,20,2,466,Cash,2024-10-07,Online,Paid
+1057,Customer_646,25,Female,High,10,B,Delhi,2165,Clothing,Mobile,BrandZ,277,312,20,2,1091,Credit Card,2024-10-08,Offline,Paid
+1038,Customer_647,37,Female,High,40,A,Hyderabad,2188,Electronics,Shirts,BrandZ,941,1188,0,1,775,Net Banking,2024-10-09,Online,Pending
+1013,Customer_648,46,Female,High,7,C,Hyderabad,2077,Electronics,Furniture,BrandZ,453,344,20,3,224,UPI,2024-10-10,Offline,Pending
+1094,Customer_649,62,Female,Medium,38,B,Mumbai,2946,Clothing,Furniture,BrandZ,253,691,10,1,1088,Credit Card,2024-10-11,Online,Paid
+1004,Customer_650,63,Female,Low,85,A,Mumbai,2601,Beauty,Mobile,BrandX,300,508,0,4,208,Cash,2024-10-12,Offline,Pending
+1034,Customer_651,27,Male,High,61,B,Bangalore,2687,Clothing,Makeup,BrandZ,977,999,10,1,535,UPI,2024-10-13,Online,Pending
+1086,Customer_652,60,Female,Medium,84,A,Bangalore,2020,Home,Mobile,BrandY,214,576,0,2,164,Credit Card,2024-10-14,Online,Paid
+1092,Customer_653,51,Female,Medium,3,B,Hyderabad,2565,Electronics,Makeup,BrandY,770,646,20,1,348,UPI,2024-10-15,Online,Paid
+1074,Customer_654,43,Male,Medium,51,A,Delhi,2183,Home,Shirts,BrandY,653,977,0,3,184,Cash,2024-10-16,Online,Pending
+1017,Customer_655,58,Male,High,86,A,Bangalore,2870,Clothing,Makeup,BrandZ,858,635,5,2,311,UPI,2024-10-17,Offline,Paid
+1075,Customer_656,20,Female,High,47,B,Hyderabad,2221,Clothing,Makeup,BrandY,167,479,15,4,1131,UPI,2024-10-18,Offline,Pending
+1008,Customer_657,23,Male,Low,68,C,Bangalore,2826,Beauty,Shirts,BrandX,544,1038,20,3,948,Cash,2024-10-19,Online,Paid
+1073,Customer_658,22,Female,Low,92,A,Delhi,2327,Beauty,Furniture,BrandZ,544,1140,15,2,1044,UPI,2024-10-20,Offline,Paid
+1057,Customer_659,22,Male,High,76,C,Hyderabad,2178,Beauty,Shirts,BrandY,425,408,20,4,620,Credit Card,2024-10-21,Online,Pending
+1016,Customer_660,64,Male,Medium,38,B,Delhi,2787,Home,Mobile,BrandX,945,441,15,3,680,UPI,2024-10-22,Offline,Pending
+1006,Customer_661,40,Female,Medium,36,C,Hyderabad,2111,Beauty,Mobile,BrandX,807,292,5,4,941,Net Banking,2024-10-23,Online,Paid
+1045,Customer_662,26,Male,Medium,41,C,Bangalore,2735,Clothing,Mobile,BrandY,701,896,15,1,1001,Credit Card,2024-10-24,Offline,Pending
+1012,Customer_663,52,Male,Low,69,C,Mumbai,2725,Beauty,Mobile,BrandX,722,776,0,1,497,UPI,2024-10-25,Offline,Paid
+1039,Customer_664,37,Male,Medium,13,C,Bangalore,2058,Electronics,Mobile,BrandY,979,239,15,4,843,Net Banking,2024-10-26,Online,Pending
+1041,Customer_665,59,Male,Low,87,C,Bangalore,2326,Beauty,Furniture,BrandX,458,869,20,1,1084,Net Banking,2024-10-27,Online,Paid
+1008,Customer_666,52,Male,Low,58,A,Mumbai,2904,Home,Furniture,BrandZ,244,630,10,4,1062,Net Banking,2024-10-28,Online,Paid
+1049,Customer_667,35,Male,Medium,50,A,Mumbai,2620,Electronics,Makeup,BrandZ,374,233,15,3,296,UPI,2024-10-29,Online,Paid
+1026,Customer_668,34,Female,Medium,30,A,Hyderabad,2896,Electronics,Mobile,BrandZ,608,822,15,2,824,Cash,2024-10-30,Online,Pending
+1065,Customer_669,41,Female,High,62,B,Hyderabad,2668,Electronics,Shirts,BrandZ,278,666,15,4,836,Net Banking,2024-10-31,Offline,Paid
+1004,Customer_670,20,Male,High,25,C,Delhi,2190,Home,Mobile,BrandZ,852,634,20,2,1109,Cash,2024-11-01,Online,Paid
+1028,Customer_671,49,Female,Medium,27,A,Delhi,2199,Clothing,Furniture,BrandY,937,931,15,2,835,Credit Card,2024-11-02,Offline,Paid
+1036,Customer_672,52,Female,Low,51,B,Bangalore,2311,Beauty,Mobile,BrandZ,930,253,20,4,270,Cash,2024-11-03,Online,Paid
+1037,Customer_673,55,Female,Low,78,A,Mumbai,2707,Electronics,Furniture,BrandZ,576,488,20,1,568,Cash,2024-11-04,Offline,Pending
+1082,Customer_674,30,Male,Low,57,A,Delhi,2034,Electronics,Makeup,BrandZ,942,836,10,3,499,Cash,2024-11-05,Offline,Pending
+1007,Customer_675,64,Female,Low,47,C,Bangalore,2378,Electronics,Makeup,BrandZ,513,1049,0,2,191,Cash,2024-11-06,Online,Paid
+1064,Customer_676,42,Male,Low,100,B,Mumbai,2386,Clothing,Makeup,BrandX,252,756,20,3,178,Cash,2024-11-07,Online,Paid
+1085,Customer_677,26,Female,High,39,C,Hyderabad,2757,Clothing,Furniture,BrandZ,203,372,5,2,1115,Credit Card,2024-11-08,Offline,Pending
+1016,Customer_678,21,Male,Medium,16,C,Bangalore,2236,Home,Mobile,BrandZ,174,1182,15,4,934,Credit Card,2024-11-09,Offline,Paid
+1070,Customer_679,31,Male,High,22,A,Hyderabad,2615,Clothing,Mobile,BrandY,227,652,5,1,163,Cash,2024-11-10,Online,Pending
+1088,Customer_680,54,Female,Low,85,C,Delhi,2518,Beauty,Shirts,BrandX,810,971,15,3,1069,Cash,2024-11-11,Offline,Paid
+1044,Customer_681,51,Female,Low,54,B,Delhi,2282,Home,Furniture,BrandY,765,773,10,2,967,Net Banking,2024-11-12,Offline,Pending
+1003,Customer_682,28,Male,Low,21,C,Mumbai,2000,Home,Shirts,BrandZ,667,314,20,4,974,Credit Card,2024-11-13,Offline,Paid
+1035,Customer_683,58,Female,Low,72,C,Bangalore,2730,Beauty,Makeup,BrandY,889,168,0,4,1021,UPI,2024-11-14,Offline,Pending
+1069,Customer_684,20,Female,Medium,16,C,Hyderabad,2463,Beauty,Mobile,BrandY,444,1195,20,2,444,Credit Card,2024-11-15,Offline,Pending
+1030,Customer_685,45,Female,Low,59,A,Mumbai,2229,Beauty,Furniture,BrandZ,630,1138,15,2,1013,UPI,2024-11-16,Offline,Pending
+1018,Customer_686,46,Male,Medium,31,B,Delhi,2966,Home,Shirts,BrandX,258,599,0,2,697,Net Banking,2024-11-17,Online,Paid
+1060,Customer_687,26,Male,Low,42,A,Delhi,2171,Home,Shirts,BrandX,637,701,20,1,1157,Cash,2024-11-18,Online,Pending
+1053,Customer_688,20,Female,Medium,74,A,Bangalore,2086,Home,Shirts,BrandY,525,844,0,2,1187,Net Banking,2024-11-19,Online,Pending
+1038,Customer_689,42,Female,High,32,A,Hyderabad,2552,Beauty,Mobile,BrandZ,780,736,15,2,784,Cash,2024-11-20,Online,Paid
+1090,Customer_690,51,Female,Low,59,A,Bangalore,2122,Beauty,Mobile,BrandY,122,870,10,1,744,Credit Card,2024-11-21,Offline,Paid
+1073,Customer_691,29,Male,Medium,34,A,Hyderabad,2842,Electronics,Mobile,BrandY,146,256,10,4,763,Cash,2024-11-22,Online,Paid
+1089,Customer_692,59,Male,High,9,B,Hyderabad,2297,Clothing,Furniture,BrandY,624,925,20,2,1195,UPI,2024-11-23,Offline,Paid
+1018,Customer_693,26,Female,Low,81,C,Bangalore,2884,Electronics,Mobile,BrandZ,828,1047,5,3,614,UPI,2024-11-24,Offline,Pending
+1038,Customer_694,32,Female,Low,11,A,Mumbai,2928,Beauty,Furniture,BrandZ,933,485,15,4,1104,Net Banking,2024-11-25,Online,Paid
+1066,Customer_695,57,Female,Low,96,A,Bangalore,2689,Home,Shirts,BrandX,805,756,20,3,1079,Credit Card,2024-11-26,Online,Paid
+1044,Customer_696,42,Female,Medium,10,B,Bangalore,2574,Beauty,Shirts,BrandZ,243,987,20,2,948,UPI,2024-11-27,Offline,Paid
+1012,Customer_697,22,Female,Medium,86,B,Delhi,2483,Clothing,Makeup,BrandY,684,751,10,1,544,Net Banking,2024-11-28,Online,Paid
+1091,Customer_698,28,Female,High,17,C,Delhi,2164,Electronics,Mobile,BrandY,767,552,0,1,395,Credit Card,2024-11-29,Online,Paid
+1057,Customer_699,51,Male,Medium,68,B,Bangalore,2698,Electronics,Shirts,BrandX,688,689,15,1,717,Credit Card,2024-11-30,Offline,Paid
+1019,Customer_700,41,Female,Medium,48,C,Bangalore,2382,Home,Mobile,BrandZ,518,173,0,2,187,Net Banking,2024-12-01,Offline,Paid
+1091,Customer_701,32,Male,Low,52,A,Delhi,2208,Electronics,Furniture,BrandY,780,773,15,2,394,UPI,2024-12-02,Offline,Pending
+1071,Customer_702,55,Female,Low,25,A,Hyderabad,2738,Electronics,Shirts,BrandX,898,1135,5,3,170,UPI,2024-12-03,Offline,Pending
+1060,Customer_703,25,Female,Low,21,C,Bangalore,2431,Beauty,Mobile,BrandX,184,372,10,1,543,Net Banking,2024-12-04,Offline,Pending
+1038,Customer_704,22,Male,Low,65,B,Mumbai,2388,Electronics,Shirts,BrandY,515,328,5,2,1136,UPI,2024-12-05,Offline,Pending
+1000,Customer_705,43,Male,Low,63,C,Mumbai,2559,Electronics,Shirts,BrandY,793,949,20,4,157,Net Banking,2024-12-06,Online,Pending
+1002,Customer_706,35,Male,Low,89,B,Mumbai,2223,Electronics,Mobile,BrandZ,581,583,10,2,477,UPI,2024-12-07,Online,Paid
+1076,Customer_707,23,Male,Low,51,A,Bangalore,2002,Home,Shirts,BrandX,555,942,20,2,439,UPI,2024-12-08,Online,Paid
+1091,Customer_708,54,Female,High,36,B,Hyderabad,2371,Home,Shirts,BrandY,926,1033,5,4,660,Net Banking,2024-12-09,Offline,Paid
+1061,Customer_709,30,Male,High,81,C,Hyderabad,2686,Beauty,Shirts,BrandX,396,641,15,1,1061,Net Banking,2024-12-10,Offline,Paid
+1062,Customer_710,45,Female,High,88,C,Delhi,2445,Electronics,Shirts,BrandZ,211,959,20,4,510,UPI,2024-12-11,Online,Pending
+1024,Customer_711,22,Male,High,66,A,Bangalore,2610,Home,Furniture,BrandY,329,1110,0,1,865,Net Banking,2024-12-12,Online,Pending
+1055,Customer_712,30,Female,Low,15,B,Hyderabad,2115,Home,Shirts,BrandZ,195,569,15,4,368,UPI,2024-12-13,Online,Paid
+1032,Customer_713,34,Female,High,96,B,Bangalore,2269,Beauty,Makeup,BrandX,779,798,15,3,555,Cash,2024-12-14,Offline,Paid
+1037,Customer_714,57,Female,Low,39,B,Delhi,2446,Clothing,Shirts,BrandZ,477,625,5,1,902,Credit Card,2024-12-15,Online,Pending
+1005,Customer_715,62,Female,High,70,A,Delhi,2367,Electronics,Mobile,BrandZ,255,319,5,2,1072,Credit Card,2024-12-16,Online,Pending
+1057,Customer_716,49,Female,Medium,1,B,Delhi,2252,Home,Makeup,BrandX,520,323,10,3,981,UPI,2024-12-17,Online,Pending
+1043,Customer_717,46,Female,High,23,C,Mumbai,2316,Beauty,Furniture,BrandZ,204,619,10,1,943,Credit Card,2024-12-18,Offline,Paid
+1044,Customer_718,20,Male,High,39,B,Bangalore,2414,Beauty,Makeup,BrandX,804,494,0,1,744,UPI,2024-12-19,Online,Paid
+1031,Customer_719,57,Female,Low,57,A,Delhi,2094,Beauty,Makeup,BrandY,429,594,15,1,256,Net Banking,2024-12-20,Online,Pending
+1044,Customer_720,51,Male,High,81,B,Bangalore,2784,Home,Makeup,BrandX,538,1191,0,4,730,Cash,2024-12-21,Offline,Pending
+1060,Customer_721,57,Male,Medium,34,B,Mumbai,2891,Electronics,Mobile,BrandX,231,777,0,1,758,Credit Card,2024-12-22,Offline,Paid
+1046,Customer_722,44,Female,Low,41,C,Mumbai,2023,Clothing,Mobile,BrandY,966,741,5,2,157,Credit Card,2024-12-23,Offline,Paid
+1020,Customer_723,30,Male,Low,93,B,Delhi,2627,Electronics,Mobile,BrandX,481,676,0,1,955,Net Banking,2024-12-24,Offline,Paid
+1079,Customer_724,62,Female,High,73,C,Delhi,2662,Beauty,Furniture,BrandY,237,605,0,2,338,Cash,2024-12-25,Offline,Paid
+1084,Customer_725,50,Male,Low,13,C,Hyderabad,2849,Beauty,Mobile,BrandY,942,960,20,2,230,Cash,2024-12-26,Online,Pending
+1074,Customer_726,23,Female,Low,70,A,Bangalore,2049,Clothing,Mobile,BrandX,369,337,10,2,257,Cash,2024-12-27,Online,Pending
+1035,Customer_727,41,Male,Low,6,C,Delhi,2501,Electronics,Makeup,BrandZ,649,1170,10,3,835,Net Banking,2024-12-28,Offline,Pending
+1098,Customer_728,36,Female,Low,84,C,Hyderabad,2717,Beauty,Mobile,BrandZ,495,860,15,2,495,Credit Card,2024-12-29,Offline,Paid
+1018,Customer_729,33,Female,Low,52,A,Bangalore,2497,Beauty,Shirts,BrandY,656,678,10,4,477,Credit Card,2024-12-30,Offline,Paid
+1019,Customer_730,57,Female,Low,3,C,Delhi,2334,Electronics,Mobile,BrandZ,563,583,15,1,704,Cash,2024-12-31,Offline,Paid
+1056,Customer_731,45,Female,Medium,81,A,Hyderabad,2078,Beauty,Furniture,BrandZ,774,437,20,4,451,Net Banking,2025-01-01,Online,Pending
+1017,Customer_732,50,Male,High,63,B,Hyderabad,2581,Electronics,Furniture,BrandX,549,648,10,3,349,Net Banking,2025-01-02,Online,Pending
+1046,Customer_733,58,Female,Medium,49,A,Bangalore,2026,Beauty,Shirts,BrandY,430,452,20,1,1042,Net Banking,2025-01-03,Offline,Pending
+1048,Customer_734,30,Male,Low,76,C,Hyderabad,2270,Electronics,Furniture,BrandY,352,236,10,2,456,Cash,2025-01-04,Offline,Paid
+1013,Customer_735,60,Male,Low,47,A,Bangalore,2561,Clothing,Furniture,BrandX,780,979,10,1,1177,Net Banking,2025-01-05,Offline,Paid
+1014,Customer_736,62,Male,High,55,C,Bangalore,2803,Beauty,Makeup,BrandZ,384,587,20,3,617,Cash,2025-01-06,Offline,Pending
+1030,Customer_737,42,Female,Medium,64,B,Bangalore,2246,Clothing,Shirts,BrandY,373,690,0,3,328,Cash,2025-01-07,Online,Paid
+1000,Customer_738,59,Male,High,65,A,Mumbai,2775,Beauty,Makeup,BrandZ,119,1195,0,4,794,Cash,2025-01-08,Offline,Pending
+1053,Customer_739,53,Male,Medium,81,B,Hyderabad,2590,Beauty,Makeup,BrandY,338,982,0,1,425,UPI,2025-01-09,Offline,Pending
+1002,Customer_740,44,Male,Low,67,C,Bangalore,2386,Home,Mobile,BrandY,369,946,0,1,770,Cash,2025-01-10,Online,Pending
+1015,Customer_741,55,Female,High,90,C,Delhi,2701,Electronics,Shirts,BrandY,517,709,10,1,787,Net Banking,2025-01-11,Offline,Pending
+1086,Customer_742,24,Female,High,15,B,Mumbai,2558,Clothing,Mobile,BrandY,409,911,5,4,1079,UPI,2025-01-12,Online,Paid
+1056,Customer_743,22,Male,Low,100,A,Mumbai,2972,Clothing,Mobile,BrandZ,130,616,20,3,332,Credit Card,2025-01-13,Offline,Paid
+1074,Customer_744,60,Female,High,32,A,Hyderabad,2360,Clothing,Makeup,BrandZ,925,824,5,2,221,Credit Card,2025-01-14,Offline,Paid
+1011,Customer_745,62,Female,Medium,96,C,Bangalore,2865,Electronics,Furniture,BrandZ,203,834,5,1,868,Net Banking,2025-01-15,Online,Paid
+1073,Customer_746,48,Male,Medium,68,B,Hyderabad,2983,Home,Shirts,BrandZ,781,287,15,4,875,Net Banking,2025-01-16,Offline,Paid
+1095,Customer_747,40,Male,Medium,18,B,Mumbai,2487,Clothing,Furniture,BrandX,285,727,0,4,418,Net Banking,2025-01-17,Online,Paid
+1015,Customer_748,59,Female,Medium,83,A,Bangalore,2351,Electronics,Makeup,BrandY,227,859,10,2,1193,Net Banking,2025-01-18,Online,Pending
+1071,Customer_749,27,Male,Low,43,A,Delhi,2700,Beauty,Makeup,BrandY,309,377,0,3,727,UPI,2025-01-19,Online,Paid
+1075,Customer_750,49,Female,High,35,A,Bangalore,2927,Clothing,Makeup,BrandY,513,430,0,1,1144,Net Banking,2025-01-20,Offline,Paid
+1023,Customer_751,60,Female,Medium,78,B,Mumbai,2255,Clothing,Makeup,BrandX,380,833,5,1,964,Cash,2025-01-21,Offline,Paid
+1027,Customer_752,47,Female,Low,58,A,Delhi,2221,Home,Makeup,BrandZ,352,977,15,4,296,Credit Card,2025-01-22,Online,Pending
+1007,Customer_753,56,Female,High,33,A,Bangalore,2883,Clothing,Makeup,BrandY,118,580,0,3,1039,Net Banking,2025-01-23,Offline,Paid
+1091,Customer_754,48,Female,High,14,C,Delhi,2752,Clothing,Furniture,BrandZ,811,451,20,1,459,Cash,2025-01-24,Offline,Pending
+1035,Customer_755,35,Female,Low,34,A,Delhi,2780,Beauty,Mobile,BrandZ,831,682,20,2,667,Net Banking,2025-01-25,Offline,Paid
+1089,Customer_756,53,Male,Low,61,A,Mumbai,2000,Electronics,Furniture,BrandX,235,918,0,3,163,Cash,2025-01-26,Online,Paid
+1007,Customer_757,19,Male,Medium,4,B,Delhi,2545,Electronics,Shirts,BrandX,322,593,5,3,281,UPI,2025-01-27,Online,Paid
+1057,Customer_758,31,Female,High,88,B,Hyderabad,2445,Home,Furniture,BrandZ,102,409,5,4,904,Credit Card,2025-01-28,Offline,Pending
+1059,Customer_759,30,Female,High,59,C,Mumbai,2078,Beauty,Makeup,BrandY,335,888,10,4,588,Credit Card,2025-01-29,Online,Pending
+1049,Customer_760,46,Female,Low,29,A,Hyderabad,2235,Electronics,Furniture,BrandY,953,945,15,1,892,UPI,2025-01-30,Offline,Paid
+1027,Customer_761,29,Male,High,83,C,Delhi,2333,Beauty,Mobile,BrandX,564,219,5,4,889,Cash,2025-01-31,Offline,Paid
+1091,Customer_762,56,Female,Medium,6,B,Hyderabad,2888,Electronics,Shirts,BrandX,327,1132,10,3,944,Net Banking,2025-02-01,Offline,Paid
+1040,Customer_763,19,Male,High,97,C,Bangalore,2348,Beauty,Furniture,BrandX,753,630,20,1,412,Cash,2025-02-02,Online,Pending
+1099,Customer_764,49,Female,Low,49,B,Delhi,2097,Home,Mobile,BrandX,598,173,20,1,792,Credit Card,2025-02-03,Online,Pending
+1063,Customer_765,30,Female,Low,40,C,Bangalore,2081,Clothing,Furniture,BrandX,620,1114,20,3,407,UPI,2025-02-04,Offline,Paid
+1026,Customer_766,63,Male,Medium,83,C,Hyderabad,2501,Home,Shirts,BrandX,801,895,0,1,558,UPI,2025-02-05,Online,Pending
+1062,Customer_767,44,Male,Medium,65,A,Bangalore,2966,Electronics,Furniture,BrandX,961,994,15,2,1124,Cash,2025-02-06,Offline,Pending
+1016,Customer_768,58,Female,High,69,C,Delhi,2476,Home,Makeup,BrandY,776,474,10,2,1197,Cash,2025-02-07,Online,Pending
+1072,Customer_769,34,Female,High,27,A,Bangalore,2926,Clothing,Furniture,BrandX,238,947,15,1,420,UPI,2025-02-08,Online,Pending
+1032,Customer_770,57,Female,Low,80,A,Hyderabad,2703,Home,Mobile,BrandX,375,167,0,4,291,Credit Card,2025-02-09,Online,Paid
+1083,Customer_771,48,Male,Medium,6,A,Hyderabad,2764,Electronics,Furniture,BrandY,390,193,10,2,1051,Net Banking,2025-02-10,Offline,Paid
+1076,Customer_772,51,Male,Medium,13,A,Hyderabad,2920,Electronics,Mobile,BrandY,152,304,10,1,1123,Net Banking,2025-02-11,Offline,Pending
+1091,Customer_773,41,Male,Medium,64,C,Delhi,2549,Home,Shirts,BrandZ,786,1016,5,2,423,Cash,2025-02-12,Offline,Pending
+1028,Customer_774,62,Male,High,62,B,Hyderabad,2013,Clothing,Furniture,BrandX,209,1071,15,4,425,UPI,2025-02-13,Online,Pending
+1012,Customer_775,52,Male,Medium,99,B,Delhi,2391,Home,Shirts,BrandX,814,892,15,3,614,UPI,2025-02-14,Offline,Paid
+1045,Customer_776,23,Male,Low,19,B,Bangalore,2346,Clothing,Shirts,BrandX,747,374,5,1,437,UPI,2025-02-15,Offline,Paid
+1034,Customer_777,36,Female,Low,76,C,Hyderabad,2309,Beauty,Furniture,BrandX,103,366,20,1,1025,Credit Card,2025-02-16,Offline,Pending
+1005,Customer_778,47,Female,High,80,A,Bangalore,2385,Clothing,Mobile,BrandZ,766,180,0,1,1027,Cash,2025-02-17,Offline,Pending
+1081,Customer_779,24,Male,High,43,B,Mumbai,2208,Beauty,Shirts,BrandY,783,1047,15,1,329,Cash,2025-02-18,Online,Pending
+1068,Customer_780,27,Female,Medium,74,C,Bangalore,2356,Home,Shirts,BrandY,969,1084,5,1,596,Cash,2025-02-19,Online,Pending
+1046,Customer_781,58,Female,High,89,A,Mumbai,2973,Clothing,Furniture,BrandX,146,594,10,1,934,Credit Card,2025-02-20,Offline,Paid
+1024,Customer_782,49,Male,Low,20,B,Bangalore,2600,Beauty,Furniture,BrandX,193,679,5,4,710,Cash,2025-02-21,Online,Paid
+1065,Customer_783,51,Female,Medium,95,A,Delhi,2567,Beauty,Furniture,BrandX,659,887,20,3,633,Net Banking,2025-02-22,Online,Paid
+1009,Customer_784,45,Male,Low,68,B,Bangalore,2093,Beauty,Furniture,BrandZ,851,1023,0,4,998,Cash,2025-02-23,Online,Paid
+1055,Customer_785,32,Male,Medium,44,B,Delhi,2092,Electronics,Furniture,BrandZ,958,715,20,4,871,Cash,2025-02-24,Online,Paid
+1029,Customer_786,47,Female,High,23,B,Delhi,2339,Home,Makeup,BrandY,312,225,10,3,265,Cash,2025-02-25,Online,Paid
+1004,Customer_787,54,Male,Medium,2,A,Hyderabad,2596,Beauty,Furniture,BrandX,535,696,10,4,684,Credit Card,2025-02-26,Offline,Pending
+1032,Customer_788,46,Male,Medium,22,C,Delhi,2444,Clothing,Mobile,BrandX,951,416,10,2,556,Net Banking,2025-02-27,Online,Pending
+1064,Customer_789,39,Male,Low,57,A,Mumbai,2756,Beauty,Shirts,BrandX,607,466,10,4,843,Net Banking,2025-02-28,Offline,Paid
+1017,Customer_790,21,Male,Low,72,B,Hyderabad,2021,Electronics,Mobile,BrandX,935,174,5,1,644,UPI,2025-03-01,Offline,Paid
+1095,Customer_791,37,Male,Medium,7,A,Hyderabad,2290,Home,Mobile,BrandZ,750,309,10,2,1097,UPI,2025-03-02,Offline,Paid
+1048,Customer_792,49,Male,High,78,C,Bangalore,2484,Electronics,Makeup,BrandY,304,745,10,2,172,Net Banking,2025-03-03,Online,Pending
+1010,Customer_793,53,Male,High,56,A,Delhi,2783,Electronics,Furniture,BrandY,480,1049,5,3,707,Cash,2025-03-04,Online,Pending
+1084,Customer_794,21,Male,Low,67,C,Delhi,2305,Electronics,Shirts,BrandZ,172,651,10,4,1090,Cash,2025-03-05,Online,Pending
+1025,Customer_795,44,Female,High,16,C,Mumbai,2633,Clothing,Mobile,BrandX,615,1162,20,4,1004,Cash,2025-03-06,Online,Pending
+1062,Customer_796,34,Female,Low,83,A,Bangalore,2127,Home,Furniture,BrandY,175,852,20,2,1188,Credit Card,2025-03-07,Offline,Paid
+1088,Customer_797,29,Female,High,51,B,Bangalore,2624,Home,Furniture,BrandY,940,150,15,4,1040,Cash,2025-03-08,Offline,Pending
+1085,Customer_798,39,Male,Medium,82,C,Hyderabad,2938,Clothing,Makeup,BrandZ,176,890,20,4,227,Credit Card,2025-03-09,Offline,Paid
+1058,Customer_799,34,Male,Low,80,A,Hyderabad,2272,Home,Makeup,BrandX,915,469,0,3,956,Net Banking,2025-03-10,Online,Pending
+1026,Customer_800,27,Female,Low,72,C,Hyderabad,2847,Electronics,Makeup,BrandY,867,531,0,2,1191,Cash,2025-03-11,Offline,Pending
+1048,Customer_801,18,Female,Medium,97,B,Mumbai,2441,Home,Shirts,BrandX,509,1047,0,1,917,Cash,2025-03-12,Offline,Pending
+1076,Customer_802,39,Female,Low,12,A,Mumbai,2502,Clothing,Mobile,BrandY,713,866,5,2,603,UPI,2025-03-13,Offline,Pending
+1032,Customer_803,43,Male,High,53,A,Hyderabad,2129,Electronics,Makeup,BrandZ,205,456,20,3,1077,Net Banking,2025-03-14,Online,Paid
+1097,Customer_804,35,Female,High,75,A,Bangalore,2131,Clothing,Makeup,BrandX,944,540,0,3,426,Cash,2025-03-15,Offline,Paid
+1098,Customer_805,31,Female,Low,5,B,Mumbai,2596,Beauty,Makeup,BrandZ,650,1139,15,3,663,Credit Card,2025-03-16,Offline,Paid
+1000,Customer_806,64,Male,High,27,C,Bangalore,2934,Electronics,Mobile,BrandY,575,447,5,4,613,Net Banking,2025-03-17,Online,Paid
+1020,Customer_807,46,Female,Low,12,A,Bangalore,2481,Electronics,Mobile,BrandZ,925,382,15,2,956,UPI,2025-03-18,Offline,Paid
+1054,Customer_808,29,Male,Medium,17,C,Delhi,2861,Home,Makeup,BrandZ,374,420,20,4,973,Net Banking,2025-03-19,Online,Paid
+1005,Customer_809,53,Male,Low,6,C,Hyderabad,2389,Electronics,Makeup,BrandZ,187,826,10,4,512,Credit Card,2025-03-20,Offline,Paid
+1091,Customer_810,52,Male,Medium,97,B,Delhi,2592,Clothing,Furniture,BrandY,822,855,15,2,900,UPI,2025-03-21,Online,Pending
+1080,Customer_811,29,Female,High,5,A,Hyderabad,2998,Home,Makeup,BrandX,980,383,10,3,674,Credit Card,2025-03-22,Online,Paid
+1068,Customer_812,24,Female,Medium,57,C,Hyderabad,2984,Beauty,Shirts,BrandZ,176,994,5,1,205,Net Banking,2025-03-23,Online,Pending
+1094,Customer_813,46,Male,High,28,A,Bangalore,2324,Clothing,Shirts,BrandX,176,640,15,1,638,UPI,2025-03-24,Offline,Paid
+1004,Customer_814,28,Female,Low,78,A,Hyderabad,2068,Beauty,Makeup,BrandY,541,652,15,2,871,Credit Card,2025-03-25,Offline,Pending
+1002,Customer_815,50,Female,High,69,B,Bangalore,2659,Beauty,Mobile,BrandX,639,1039,5,2,190,Net Banking,2025-03-26,Online,Paid
+1052,Customer_816,23,Female,Low,59,A,Bangalore,2447,Beauty,Furniture,BrandZ,344,741,5,3,1153,Credit Card,2025-03-27,Online,Pending
+1022,Customer_817,64,Female,Low,33,A,Hyderabad,2527,Electronics,Mobile,BrandZ,677,895,0,2,409,Cash,2025-03-28,Online,Paid
+1052,Customer_818,32,Male,Medium,62,C,Bangalore,2818,Clothing,Makeup,BrandZ,877,577,20,2,590,Net Banking,2025-03-29,Online,Paid
+1036,Customer_819,49,Female,Medium,50,B,Bangalore,2616,Clothing,Shirts,BrandZ,481,846,15,3,1075,UPI,2025-03-30,Online,Paid
+1073,Customer_820,28,Male,Medium,19,A,Bangalore,2164,Electronics,Furniture,BrandZ,816,795,15,3,1005,UPI,2025-03-31,Online,Paid
+1073,Customer_821,40,Male,Medium,86,C,Mumbai,2487,Home,Mobile,BrandZ,669,881,5,4,233,Cash,2025-04-01,Online,Pending
+1082,Customer_822,43,Female,High,69,B,Bangalore,2712,Beauty,Mobile,BrandY,812,949,5,2,195,Credit Card,2025-04-02,Online,Paid
+1016,Customer_823,51,Male,High,66,B,Mumbai,2708,Clothing,Makeup,BrandY,836,513,20,1,589,Credit Card,2025-04-03,Online,Paid
+1084,Customer_824,63,Female,High,94,C,Mumbai,2425,Electronics,Furniture,BrandY,241,351,5,2,1135,UPI,2025-04-04,Online,Pending
+1077,Customer_825,51,Female,Low,47,C,Bangalore,2696,Beauty,Shirts,BrandX,992,1031,10,1,285,Credit Card,2025-04-05,Online,Paid
+1072,Customer_826,46,Male,High,39,C,Bangalore,2833,Home,Makeup,BrandX,467,295,10,1,1058,Net Banking,2025-04-06,Online,Pending
+1000,Customer_827,21,Male,High,68,C,Mumbai,2264,Home,Furniture,BrandY,183,985,10,1,1010,Net Banking,2025-04-07,Offline,Pending
+1050,Customer_828,34,Male,High,33,C,Mumbai,2874,Beauty,Mobile,BrandX,242,788,10,4,937,UPI,2025-04-08,Online,Paid
+1044,Customer_829,52,Male,Medium,13,A,Bangalore,2611,Home,Makeup,BrandX,451,284,20,3,739,Net Banking,2025-04-09,Offline,Paid
+1076,Customer_830,30,Female,High,84,A,Bangalore,2341,Clothing,Mobile,BrandZ,644,775,15,3,1105,UPI,2025-04-10,Offline,Pending
+1003,Customer_831,58,Female,Low,54,B,Hyderabad,2831,Clothing,Mobile,BrandZ,251,213,10,4,839,Credit Card,2025-04-11,Offline,Paid
+1061,Customer_832,56,Female,Medium,7,A,Mumbai,2725,Clothing,Makeup,BrandX,257,640,5,3,688,Credit Card,2025-04-12,Online,Pending
+1064,Customer_833,32,Male,Low,79,A,Mumbai,2277,Home,Makeup,BrandX,545,190,10,4,857,Credit Card,2025-04-13,Offline,Paid
+1031,Customer_834,46,Male,High,87,A,Hyderabad,2673,Clothing,Makeup,BrandY,752,1176,20,2,444,Cash,2025-04-14,Online,Paid
+1033,Customer_835,46,Male,Medium,14,C,Mumbai,2438,Electronics,Makeup,BrandX,862,1062,5,4,202,UPI,2025-04-15,Offline,Pending
+1091,Customer_836,28,Female,Low,87,B,Delhi,2156,Clothing,Makeup,BrandZ,402,1124,10,3,955,Net Banking,2025-04-16,Online,Paid
+1094,Customer_837,49,Male,High,19,B,Mumbai,2421,Clothing,Mobile,BrandX,723,517,15,3,201,Credit Card,2025-04-17,Online,Paid
+1071,Customer_838,19,Female,Low,54,B,Hyderabad,2250,Home,Shirts,BrandY,755,1067,5,2,877,Cash,2025-04-18,Offline,Paid
+1038,Customer_839,64,Male,Low,93,B,Delhi,2877,Clothing,Shirts,BrandZ,549,1177,5,4,221,Net Banking,2025-04-19,Offline,Pending
+1025,Customer_840,31,Female,Low,20,A,Bangalore,2608,Beauty,Makeup,BrandZ,820,393,15,2,177,Net Banking,2025-04-20,Online,Paid
+1033,Customer_841,37,Female,High,29,A,Hyderabad,2529,Electronics,Mobile,BrandZ,323,1051,5,1,618,Net Banking,2025-04-21,Offline,Pending
+1053,Customer_842,39,Male,High,24,C,Hyderabad,2326,Home,Shirts,BrandZ,142,315,10,4,913,Credit Card,2025-04-22,Online,Paid
+1002,Customer_843,28,Male,Low,82,B,Bangalore,2960,Electronics,Shirts,BrandX,363,1199,5,2,1035,Net Banking,2025-04-23,Online,Pending
+1049,Customer_844,44,Female,Medium,63,A,Hyderabad,2894,Beauty,Shirts,BrandY,855,1190,10,2,1061,UPI,2025-04-24,Online,Paid
+1011,Customer_845,20,Female,Medium,74,A,Mumbai,2096,Home,Mobile,BrandX,102,877,15,3,696,Cash,2025-04-25,Offline,Paid
+1064,Customer_846,34,Male,High,57,C,Bangalore,2512,Home,Makeup,BrandX,736,632,0,4,350,Net Banking,2025-04-26,Online,Pending
+1053,Customer_847,61,Male,High,8,C,Hyderabad,2215,Clothing,Makeup,BrandZ,367,692,15,1,969,Net Banking,2025-04-27,Online,Paid
+1004,Customer_848,45,Female,High,90,C,Bangalore,2131,Electronics,Makeup,BrandY,695,1080,10,1,709,UPI,2025-04-28,Online,Pending
+1093,Customer_849,46,Male,High,62,A,Bangalore,2259,Beauty,Furniture,BrandZ,115,549,20,4,528,Net Banking,2025-04-29,Online,Paid
+1093,Customer_850,38,Female,High,29,A,Bangalore,2124,Beauty,Furniture,BrandX,433,768,15,4,228,Credit Card,2025-04-30,Offline,Pending
+1056,Customer_851,64,Female,Medium,74,C,Delhi,2081,Home,Furniture,BrandX,563,1028,20,2,983,Credit Card,2025-05-01,Offline,Paid
+1016,Customer_852,33,Male,High,17,B,Hyderabad,2282,Clothing,Mobile,BrandZ,158,250,20,3,1181,Credit Card,2025-05-02,Offline,Pending
+1046,Customer_853,54,Male,Low,66,C,Delhi,2682,Home,Shirts,BrandX,276,1029,10,3,174,Net Banking,2025-05-03,Offline,Paid
+1022,Customer_854,37,Male,Low,6,C,Hyderabad,2058,Home,Shirts,BrandX,162,979,10,3,599,Cash,2025-05-04,Online,Pending
+1078,Customer_855,23,Male,Medium,58,C,Mumbai,2543,Home,Mobile,BrandZ,660,908,0,4,917,Cash,2025-05-05,Online,Pending
+1084,Customer_856,36,Male,Low,69,C,Mumbai,2160,Home,Mobile,BrandX,406,312,5,3,904,Net Banking,2025-05-06,Online,Paid
+1013,Customer_857,22,Female,Medium,28,A,Mumbai,2283,Beauty,Makeup,BrandY,345,651,15,2,347,Cash,2025-05-07,Online,Pending
+1065,Customer_858,20,Female,Medium,62,B,Hyderabad,2105,Beauty,Makeup,BrandZ,388,696,10,4,586,Cash,2025-05-08,Online,Pending
+1074,Customer_859,18,Male,Low,41,C,Bangalore,2104,Home,Furniture,BrandY,897,530,15,4,839,Net Banking,2025-05-09,Online,Paid
+1050,Customer_860,55,Male,High,69,B,Bangalore,2438,Home,Furniture,BrandX,431,1019,20,3,736,Credit Card,2025-05-10,Offline,Paid
+1037,Customer_861,32,Male,Low,82,B,Delhi,2227,Clothing,Mobile,BrandX,626,1054,5,1,253,Net Banking,2025-05-11,Online,Paid
+1063,Customer_862,51,Female,Low,90,B,Delhi,2699,Home,Furniture,BrandZ,949,1151,0,1,776,Credit Card,2025-05-12,Online,Paid
+1097,Customer_863,52,Male,Medium,84,C,Mumbai,2581,Beauty,Shirts,BrandX,354,758,15,2,607,Credit Card,2025-05-13,Online,Paid
+1037,Customer_864,42,Male,Low,41,A,Delhi,2317,Electronics,Mobile,BrandZ,703,456,5,3,513,Cash,2025-05-14,Offline,Paid
+1049,Customer_865,41,Female,Medium,49,C,Hyderabad,2463,Beauty,Mobile,BrandZ,609,204,0,3,284,Cash,2025-05-15,Online,Pending
+1097,Customer_866,29,Female,High,91,B,Hyderabad,2801,Clothing,Shirts,BrandZ,890,1132,15,4,523,Credit Card,2025-05-16,Online,Pending
+1081,Customer_867,35,Male,High,49,B,Delhi,2598,Beauty,Makeup,BrandZ,817,482,5,4,188,Credit Card,2025-05-17,Online,Pending
+1029,Customer_868,32,Male,High,76,A,Delhi,2881,Electronics,Makeup,BrandZ,705,276,10,3,968,Cash,2025-05-18,Offline,Paid
+1078,Customer_869,61,Male,Low,71,C,Delhi,2873,Home,Shirts,BrandY,836,854,15,4,196,UPI,2025-05-19,Online,Paid
+1090,Customer_870,33,Female,Medium,3,B,Delhi,2471,Electronics,Shirts,BrandZ,912,392,5,3,185,Credit Card,2025-05-20,Online,Pending
+1050,Customer_871,44,Male,High,10,A,Mumbai,2055,Home,Furniture,BrandY,929,749,0,2,244,Credit Card,2025-05-21,Offline,Pending
+1062,Customer_872,25,Male,Medium,98,B,Mumbai,2624,Home,Mobile,BrandX,562,652,5,4,1134,Credit Card,2025-05-22,Online,Paid
+1097,Customer_873,63,Male,Medium,89,A,Delhi,2012,Beauty,Furniture,BrandZ,298,753,10,3,517,Cash,2025-05-23,Offline,Pending
+1051,Customer_874,42,Female,High,35,A,Hyderabad,2439,Beauty,Shirts,BrandX,370,452,15,4,214,Net Banking,2025-05-24,Online,Paid
+1037,Customer_875,34,Female,High,80,C,Mumbai,2017,Beauty,Furniture,BrandZ,845,384,15,2,903,Credit Card,2025-05-25,Offline,Paid
+1096,Customer_876,46,Male,Medium,2,B,Hyderabad,2693,Clothing,Shirts,BrandY,657,288,15,4,965,Credit Card,2025-05-26,Online,Pending
+1087,Customer_877,25,Male,High,24,C,Bangalore,2972,Beauty,Furniture,BrandY,163,344,10,3,905,Credit Card,2025-05-27,Online,Paid
+1078,Customer_878,32,Female,Medium,74,B,Hyderabad,2112,Clothing,Furniture,BrandY,329,796,0,4,330,Net Banking,2025-05-28,Offline,Paid
+1029,Customer_879,44,Female,Medium,38,C,Delhi,2228,Beauty,Makeup,BrandX,348,150,15,4,746,Net Banking,2025-05-29,Online,Paid
+1050,Customer_880,63,Female,High,22,B,Bangalore,2170,Home,Shirts,BrandZ,345,710,0,3,936,Credit Card,2025-05-30,Online,Paid
+1080,Customer_881,24,Female,Low,26,C,Mumbai,2294,Clothing,Furniture,BrandX,686,862,5,1,776,Credit Card,2025-05-31,Offline,Pending
+1004,Customer_882,20,Female,High,43,A,Mumbai,2188,Electronics,Mobile,BrandY,256,562,0,4,765,UPI,2025-06-01,Online,Paid
+1028,Customer_883,46,Female,Low,55,B,Bangalore,2425,Clothing,Furniture,BrandX,834,687,0,4,261,Net Banking,2025-06-02,Offline,Paid
+1003,Customer_884,61,Female,Medium,39,B,Hyderabad,2976,Clothing,Furniture,BrandY,801,578,15,2,602,UPI,2025-06-03,Online,Pending
+1009,Customer_885,41,Female,Medium,91,A,Mumbai,2078,Electronics,Mobile,BrandY,663,384,20,1,905,Credit Card,2025-06-04,Offline,Paid
+1055,Customer_886,20,Female,Low,29,C,Delhi,2657,Clothing,Shirts,BrandY,187,498,20,2,733,Credit Card,2025-06-05,Online,Paid
+1016,Customer_887,37,Male,Medium,20,B,Bangalore,2918,Home,Makeup,BrandZ,412,545,10,3,288,Credit Card,2025-06-06,Online,Pending
+1073,Customer_888,63,Male,Low,91,B,Delhi,2181,Beauty,Makeup,BrandZ,950,565,10,3,380,Credit Card,2025-06-07,Offline,Pending
+1016,Customer_889,32,Male,Low,41,C,Bangalore,2498,Electronics,Makeup,BrandY,165,1065,20,2,1133,Cash,2025-06-08,Online,Paid
+1083,Customer_890,42,Female,Medium,54,A,Mumbai,2797,Beauty,Mobile,BrandX,761,230,5,4,402,Cash,2025-06-09,Offline,Paid
+1087,Customer_891,47,Male,Low,20,C,Hyderabad,2761,Home,Furniture,BrandX,119,185,15,1,710,Cash,2025-06-10,Offline,Pending
+1068,Customer_892,31,Female,High,19,C,Bangalore,2865,Electronics,Shirts,BrandZ,132,790,15,2,221,UPI,2025-06-11,Offline,Paid
+1033,Customer_893,24,Female,High,84,C,Bangalore,2825,Beauty,Furniture,BrandY,939,1031,5,2,371,Net Banking,2025-06-12,Online,Paid
+1005,Customer_894,34,Male,Medium,99,B,Delhi,2707,Beauty,Makeup,BrandX,892,906,5,3,211,Credit Card,2025-06-13,Online,Paid
+1052,Customer_895,61,Female,Medium,66,A,Mumbai,2834,Home,Furniture,BrandY,657,772,20,4,955,Net Banking,2025-06-14,Online,Pending
+1065,Customer_896,37,Male,Low,30,A,Delhi,2070,Beauty,Mobile,BrandX,172,617,10,1,274,Cash,2025-06-15,Offline,Paid
+1076,Customer_897,53,Male,Low,53,C,Mumbai,2247,Home,Mobile,BrandZ,965,505,5,2,890,Credit Card,2025-06-16,Offline,Pending
+1042,Customer_898,26,Male,Low,34,B,Delhi,2145,Clothing,Shirts,BrandY,924,858,10,1,310,Credit Card,2025-06-17,Offline,Pending
+1074,Customer_899,55,Female,Low,22,C,Bangalore,2617,Home,Shirts,BrandY,442,1169,0,1,690,UPI,2025-06-18,Online,Pending
+1022,Customer_900,39,Male,High,67,B,Delhi,2774,Clothing,Makeup,BrandX,232,1051,15,2,775,Net Banking,2025-06-19,Offline,Pending
+1054,Customer_901,19,Female,High,6,B,Hyderabad,2295,Electronics,Shirts,BrandX,154,822,20,1,255,UPI,2025-06-20,Online,Paid
+1079,Customer_902,41,Male,Medium,79,B,Mumbai,2581,Beauty,Furniture,BrandX,160,588,15,3,925,Cash,2025-06-21,Online,Pending
+1094,Customer_903,25,Male,Low,27,B,Mumbai,2469,Home,Mobile,BrandY,956,680,20,4,151,Net Banking,2025-06-22,Online,Paid
+1074,Customer_904,28,Male,Low,10,A,Bangalore,2505,Home,Mobile,BrandZ,619,276,0,4,382,Cash,2025-06-23,Online,Pending
+1015,Customer_905,30,Female,Medium,73,B,Mumbai,2192,Beauty,Mobile,BrandZ,371,354,15,4,518,UPI,2025-06-24,Online,Pending
+1007,Customer_906,34,Female,Low,97,B,Hyderabad,2067,Beauty,Shirts,BrandX,345,178,0,3,1095,UPI,2025-06-25,Online,Paid
+1003,Customer_907,25,Female,Low,96,C,Delhi,2493,Electronics,Mobile,BrandZ,275,594,20,3,329,Credit Card,2025-06-26,Online,Pending
+1003,Customer_908,38,Male,Low,48,C,Bangalore,2816,Electronics,Mobile,BrandX,727,1115,5,3,442,Net Banking,2025-06-27,Online,Pending
+1055,Customer_909,35,Male,Low,70,A,Hyderabad,2051,Home,Mobile,BrandZ,416,613,15,4,733,Net Banking,2025-06-28,Offline,Paid
+1024,Customer_910,47,Female,Low,59,C,Mumbai,2881,Electronics,Makeup,BrandY,882,300,0,1,944,Credit Card,2025-06-29,Online,Pending
+1066,Customer_911,35,Female,Medium,100,B,Mumbai,2362,Clothing,Makeup,BrandX,804,389,15,3,324,Net Banking,2025-06-30,Online,Pending
+1095,Customer_912,63,Female,Low,59,C,Hyderabad,2796,Electronics,Shirts,BrandZ,761,415,15,2,272,Cash,2025-07-01,Offline,Pending
+1066,Customer_913,64,Female,Medium,2,A,Delhi,2916,Electronics,Mobile,BrandY,230,1062,15,3,376,Cash,2025-07-02,Offline,Paid
+1026,Customer_914,48,Female,Low,29,C,Delhi,2473,Home,Shirts,BrandZ,201,646,10,2,593,UPI,2025-07-03,Offline,Pending
+1092,Customer_915,55,Female,High,68,C,Bangalore,2845,Clothing,Mobile,BrandY,409,834,0,4,577,Cash,2025-07-04,Offline,Paid
+1031,Customer_916,49,Male,High,65,A,Mumbai,2520,Electronics,Mobile,BrandY,881,307,0,2,914,Net Banking,2025-07-05,Online,Paid
+1049,Customer_917,28,Female,High,83,A,Hyderabad,2762,Clothing,Mobile,BrandZ,391,321,15,3,781,Credit Card,2025-07-06,Offline,Paid
+1060,Customer_918,62,Male,High,26,B,Delhi,2430,Clothing,Shirts,BrandZ,821,643,5,3,214,UPI,2025-07-07,Offline,Pending
+1050,Customer_919,42,Male,Medium,89,C,Bangalore,2843,Clothing,Shirts,BrandY,594,1119,15,1,577,Credit Card,2025-07-08,Offline,Pending
+1018,Customer_920,50,Female,Medium,10,B,Mumbai,2297,Beauty,Mobile,BrandY,460,825,10,4,767,UPI,2025-07-09,Offline,Pending
+1020,Customer_921,55,Female,Low,53,C,Mumbai,2434,Beauty,Furniture,BrandY,437,808,20,2,1074,UPI,2025-07-10,Online,Pending
+1004,Customer_922,58,Male,High,79,C,Bangalore,2695,Beauty,Shirts,BrandX,678,1052,10,4,961,Credit Card,2025-07-11,Offline,Paid
+1081,Customer_923,25,Female,Medium,59,B,Bangalore,2690,Beauty,Makeup,BrandY,109,815,5,3,256,Cash,2025-07-12,Offline,Paid
+1091,Customer_924,28,Female,Low,22,C,Delhi,2197,Home,Shirts,BrandX,148,516,15,1,808,Cash,2025-07-13,Offline,Pending
+1041,Customer_925,39,Male,Low,51,C,Hyderabad,2127,Electronics,Mobile,BrandY,586,699,0,3,414,Cash,2025-07-14,Offline,Pending
+1060,Customer_926,41,Male,Medium,48,C,Mumbai,2531,Beauty,Furniture,BrandX,722,792,15,3,304,Cash,2025-07-15,Online,Paid
+1021,Customer_927,58,Male,High,21,A,Hyderabad,2983,Home,Mobile,BrandY,420,404,5,3,1186,Credit Card,2025-07-16,Offline,Pending
+1020,Customer_928,34,Female,Low,22,B,Mumbai,2410,Electronics,Makeup,BrandY,830,357,0,2,1045,Net Banking,2025-07-17,Offline,Pending
+1069,Customer_929,29,Male,High,100,A,Mumbai,2933,Beauty,Shirts,BrandY,668,599,10,3,1142,UPI,2025-07-18,Offline,Pending
+1000,Customer_930,63,Female,High,98,B,Hyderabad,2839,Electronics,Shirts,BrandZ,894,244,20,4,394,Credit Card,2025-07-19,Online,Pending
+1004,Customer_931,49,Male,High,30,B,Bangalore,2064,Beauty,Mobile,BrandZ,724,988,20,4,535,Cash,2025-07-20,Offline,Pending
+1011,Customer_932,32,Male,Low,25,C,Delhi,2693,Home,Mobile,BrandY,232,627,15,1,908,Cash,2025-07-21,Offline,Pending
+1089,Customer_933,33,Male,High,28,B,Mumbai,2240,Clothing,Makeup,BrandX,682,832,10,4,563,Credit Card,2025-07-22,Online,Paid
+1045,Customer_934,39,Female,Low,65,A,Bangalore,2368,Clothing,Furniture,BrandX,182,911,5,3,864,UPI,2025-07-23,Offline,Paid
+1033,Customer_935,45,Female,High,45,A,Mumbai,2535,Electronics,Makeup,BrandY,156,339,20,3,908,Credit Card,2025-07-24,Online,Paid
+1048,Customer_936,37,Male,Low,68,A,Delhi,2383,Home,Furniture,BrandZ,475,860,10,4,896,Credit Card,2025-07-25,Online,Paid
+1077,Customer_937,50,Male,High,7,B,Mumbai,2430,Clothing,Shirts,BrandX,448,905,15,1,742,Net Banking,2025-07-26,Offline,Pending
+1089,Customer_938,27,Male,Medium,49,A,Delhi,2966,Beauty,Furniture,BrandZ,370,985,0,1,988,Credit Card,2025-07-27,Offline,Pending
+1044,Customer_939,57,Female,High,9,B,Delhi,2082,Clothing,Furniture,BrandX,582,282,15,4,165,Net Banking,2025-07-28,Online,Paid
+1026,Customer_940,49,Male,High,36,A,Mumbai,2981,Electronics,Shirts,BrandY,210,204,15,2,1142,UPI,2025-07-29,Online,Paid
+1072,Customer_941,50,Female,Low,83,A,Mumbai,2830,Electronics,Shirts,BrandZ,968,659,10,2,800,Credit Card,2025-07-30,Offline,Paid
+1025,Customer_942,19,Male,Low,1,B,Delhi,2696,Home,Shirts,BrandX,986,819,20,2,297,Credit Card,2025-07-31,Online,Paid
+1046,Customer_943,50,Male,High,10,A,Bangalore,2950,Electronics,Makeup,BrandY,175,559,10,2,504,Cash,2025-08-01,Online,Paid
+1085,Customer_944,50,Male,Medium,36,C,Hyderabad,2827,Clothing,Shirts,BrandY,257,1136,0,4,852,Credit Card,2025-08-02,Offline,Pending
+1055,Customer_945,58,Male,Medium,73,B,Delhi,2610,Clothing,Mobile,BrandY,631,883,10,1,762,Cash,2025-08-03,Online,Pending
+1093,Customer_946,30,Male,Low,46,B,Mumbai,2573,Clothing,Shirts,BrandZ,742,408,5,3,254,Cash,2025-08-04,Online,Paid
+1062,Customer_947,47,Male,Medium,32,B,Mumbai,2285,Clothing,Shirts,BrandZ,428,448,15,3,545,Cash,2025-08-05,Online,Paid
+1047,Customer_948,50,Female,High,32,C,Bangalore,2988,Home,Shirts,BrandY,221,710,20,4,755,UPI,2025-08-06,Online,Pending
+1060,Customer_949,30,Male,Low,6,B,Hyderabad,2533,Beauty,Furniture,BrandZ,140,446,0,3,1000,Net Banking,2025-08-07,Online,Pending
+1080,Customer_950,43,Female,High,48,A,Delhi,2458,Beauty,Makeup,BrandX,266,511,15,2,591,Cash,2025-08-08,Online,Pending
+1025,Customer_951,39,Male,Low,38,A,Delhi,2211,Home,Shirts,BrandY,741,738,10,1,1022,Credit Card,2025-08-09,Offline,Paid
+1035,Customer_952,56,Male,Low,17,A,Hyderabad,2125,Electronics,Makeup,BrandY,122,276,5,4,816,Credit Card,2025-08-10,Online,Pending
+1000,Customer_953,19,Female,Low,74,B,Delhi,2412,Beauty,Mobile,BrandZ,378,346,10,1,943,Cash,2025-08-11,Offline,Paid
+1007,Customer_954,55,Male,Low,27,A,Hyderabad,2498,Electronics,Mobile,BrandY,862,370,15,4,624,Cash,2025-08-12,Offline,Paid
+1098,Customer_955,56,Female,Medium,54,B,Mumbai,2424,Beauty,Shirts,BrandX,568,1144,0,4,777,Credit Card,2025-08-13,Offline,Pending
+1051,Customer_956,43,Female,High,50,A,Hyderabad,2553,Electronics,Mobile,BrandZ,499,240,20,4,651,Cash,2025-08-14,Offline,Pending
+1078,Customer_957,63,Male,High,35,C,Delhi,2609,Home,Makeup,BrandZ,108,560,15,4,497,Net Banking,2025-08-15,Offline,Pending
+1046,Customer_958,32,Female,High,85,C,Hyderabad,2960,Clothing,Furniture,BrandY,112,157,0,1,1167,Net Banking,2025-08-16,Offline,Paid
+1055,Customer_959,51,Female,Low,25,C,Bangalore,2542,Electronics,Shirts,BrandY,918,693,15,3,719,UPI,2025-08-17,Offline,Pending
+1085,Customer_960,59,Male,Medium,28,C,Mumbai,2157,Clothing,Mobile,BrandY,931,617,5,4,844,Cash,2025-08-18,Offline,Pending
+1013,Customer_961,61,Female,High,15,B,Mumbai,2111,Electronics,Makeup,BrandZ,151,469,10,2,175,UPI,2025-08-19,Online,Paid
+1089,Customer_962,57,Male,Medium,4,A,Hyderabad,2401,Electronics,Makeup,BrandY,308,418,20,4,366,UPI,2025-08-20,Offline,Pending
+1027,Customer_963,28,Male,Low,93,C,Delhi,2758,Electronics,Mobile,BrandX,649,210,0,1,986,UPI,2025-08-21,Offline,Pending
+1086,Customer_964,20,Male,High,73,B,Bangalore,2121,Electronics,Makeup,BrandY,711,946,20,4,923,Cash,2025-08-22,Offline,Paid
+1077,Customer_965,23,Male,Medium,27,C,Mumbai,2272,Electronics,Makeup,BrandY,804,702,20,2,1196,UPI,2025-08-23,Online,Paid
+1087,Customer_966,26,Female,Low,26,C,Mumbai,2293,Clothing,Shirts,BrandZ,501,1075,20,1,819,Net Banking,2025-08-24,Offline,Paid
+1001,Customer_967,23,Male,Medium,19,B,Delhi,2397,Electronics,Makeup,BrandY,290,810,0,4,867,UPI,2025-08-25,Online,Paid
+1025,Customer_968,26,Male,High,92,B,Delhi,2470,Clothing,Mobile,BrandZ,150,865,0,2,459,Net Banking,2025-08-26,Offline,Paid
+1013,Customer_969,56,Female,High,17,A,Bangalore,2984,Home,Shirts,BrandY,492,928,20,1,748,Net Banking,2025-08-27,Offline,Pending
+1058,Customer_970,48,Male,Low,43,A,Hyderabad,2206,Beauty,Mobile,BrandX,752,343,10,4,416,Cash,2025-08-28,Online,Pending
+1055,Customer_971,49,Male,Low,41,C,Delhi,2109,Electronics,Furniture,BrandX,779,631,15,2,795,UPI,2025-08-29,Offline,Paid
+1006,Customer_972,58,Female,Low,42,C,Hyderabad,2439,Beauty,Mobile,BrandZ,922,1004,20,1,1172,Cash,2025-08-30,Online,Pending
+1002,Customer_973,29,Female,Medium,50,A,Bangalore,2277,Clothing,Mobile,BrandZ,720,647,5,4,599,Net Banking,2025-08-31,Online,Pending
+1022,Customer_974,25,Female,Medium,84,A,Hyderabad,2962,Home,Shirts,BrandY,818,361,20,1,714,Credit Card,2025-09-01,Offline,Paid
+1017,Customer_975,25,Female,Medium,40,B,Mumbai,2567,Home,Makeup,BrandY,399,814,0,2,177,UPI,2025-09-02,Offline,Paid
+1037,Customer_976,45,Female,Low,39,A,Hyderabad,2886,Home,Mobile,BrandX,721,819,15,4,369,Cash,2025-09-03,Online,Paid
+1098,Customer_977,37,Female,High,23,A,Bangalore,2914,Beauty,Shirts,BrandY,295,370,5,4,555,Credit Card,2025-09-04,Online,Pending
+1014,Customer_978,64,Female,High,96,C,Bangalore,2568,Clothing,Furniture,BrandX,516,422,15,4,420,UPI,2025-09-05,Offline,Paid
+1063,Customer_979,24,Male,Medium,52,A,Bangalore,2939,Electronics,Shirts,BrandZ,763,428,15,2,941,UPI,2025-09-06,Offline,Pending
+1088,Customer_980,28,Female,Medium,47,C,Hyderabad,2481,Electronics,Shirts,BrandY,519,965,5,3,1112,Cash,2025-09-07,Offline,Pending
+1027,Customer_981,37,Female,High,63,A,Mumbai,2802,Clothing,Makeup,BrandZ,854,425,20,4,983,Credit Card,2025-09-08,Online,Pending
+1073,Customer_982,33,Female,High,97,B,Delhi,2113,Beauty,Mobile,BrandY,739,1154,20,2,466,Cash,2025-09-09,Offline,Pending
+1038,Customer_983,21,Male,Medium,69,A,Mumbai,2892,Electronics,Furniture,BrandX,716,663,20,1,487,UPI,2025-09-10,Online,Paid
+1056,Customer_984,23,Male,Medium,43,A,Hyderabad,2896,Clothing,Shirts,BrandZ,621,1072,10,1,500,UPI,2025-09-11,Offline,Pending
+1016,Customer_985,39,Female,High,48,A,Hyderabad,2819,Electronics,Mobile,BrandZ,455,791,20,2,660,Net Banking,2025-09-12,Online,Paid
+1085,Customer_986,43,Female,Low,34,C,Delhi,2852,Home,Mobile,BrandY,247,654,5,3,674,UPI,2025-09-13,Online,Pending
+1089,Customer_987,20,Female,Medium,40,B,Hyderabad,2476,Electronics,Shirts,BrandZ,464,739,10,2,641,UPI,2025-09-14,Offline,Paid
+1043,Customer_988,58,Male,High,75,A,Bangalore,2709,Beauty,Mobile,BrandX,463,921,20,1,158,Credit Card,2025-09-15,Online,Paid
+1024,Customer_989,59,Male,High,61,C,Bangalore,2932,Clothing,Shirts,BrandZ,751,889,10,1,710,Credit Card,2025-09-16,Online,Paid
+1016,Customer_990,31,Female,High,50,B,Bangalore,2320,Beauty,Shirts,BrandZ,801,824,5,4,589,Net Banking,2025-09-17,Online,Pending
+1012,Customer_991,28,Male,High,67,C,Bangalore,2178,Clothing,Shirts,BrandY,501,1163,20,3,941,Net Banking,2025-09-18,Online,Pending
+1083,Customer_992,35,Female,Low,62,C,Bangalore,2896,Home,Furniture,BrandZ,705,277,0,2,182,Net Banking,2025-09-19,Online,Pending
+1024,Customer_993,29,Male,High,58,B,Hyderabad,2218,Clothing,Shirts,BrandY,591,652,5,1,1196,Cash,2025-09-20,Offline,Paid
+1067,Customer_994,40,Male,Medium,33,A,Delhi,2788,Electronics,Makeup,BrandY,328,1051,15,1,994,Cash,2025-09-21,Offline,Pending
+1009,Customer_995,29,Female,Low,75,C,Delhi,2948,Electronics,Mobile,BrandZ,674,692,15,1,715,Net Banking,2025-09-22,Online,Pending
+1066,Customer_996,30,Female,High,16,C,Bangalore,2527,Home,Furniture,BrandX,951,641,5,2,198,Cash,2025-09-23,Offline,Pending
+1017,Customer_997,42,Female,Low,82,A,Hyderabad,2491,Clothing,Mobile,BrandY,636,1194,15,2,611,UPI,2025-09-24,Online,Paid
+1099,Customer_998,62,Female,Medium,94,A,Mumbai,2890,Home,Furniture,BrandZ,367,863,5,3,739,Net Banking,2025-09-25,Online,Pending
+1085,Customer_999,36,Male,High,48,B,Mumbai,2060,Electronics,Makeup,BrandY,504,940,0,4,485,Net Banking,2025-09-26,Offline,Pending
